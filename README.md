@@ -1,6 +1,8 @@
-# MSParS-V2.0-
+# MSParS-V2.0
 
-Under Constricution
+Code for paper "Asking Clarification Questions in Knowledge-Based Question Answering"
+
+Under Construction
 
 
 
