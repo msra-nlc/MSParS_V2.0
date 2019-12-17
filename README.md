@@ -34,9 +34,6 @@ python3 p1_HierarchicalAttention_train.py --cache_file_h5py ../preprocess_file/d
 
 cd ../a02_TextCNN/
 python3 p7_TextCNN_train.py --cache_file_h5py ../preprocess_file/data/new_data/multi_turn/data.h51 --cache_file_pickle #CNN
-
-
-
 ```
 
 
