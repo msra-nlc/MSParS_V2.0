@@ -41,7 +41,6 @@ python3 p7_TextCNN_train.py --cache_file_h5py ../preprocess_file/data/new_data/m
 
 ## Task 2: Clarification Generation
 
-All generation models have the same requiremen and running command.
 
 
 ### Requirements
