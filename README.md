@@ -11,31 +11,48 @@ Under Construction
 
 
 ### Requirements
-* Python 3.5
-* nltk
+* python 3.5.6
+* torchtext 0.4.0
+* torch 1.2.0
 
-
-### Preprocessing
+### Baseline 1: CNN
+#### Preprocessing
 ```
 cd code/classification/preprocess_file
 python3 pre_process_predicate_classifier.py --data_path "data/multi-turn/step1/"  #Generate data for baseline CNN
-python3 pre_process_predicate_hir.py --data_path "data/multi-turn/step1/"  #Generate data for HAN and DMN
 ```
 
-
-
-### Train & Test
+#### Train & Test
 ```
-cd ../a09_DynamicMemoryNet/
-python3 a8_train.py --cache_file_h5py ../preprocess_file/data/new_data/multi_turn/hir_data.h5 --cache_file_pickle ../preprocess_file/data/new_data/multi_turn/hir_vocab_label.pik # DMN
-
-cd ../a05_HierarchicalAttentionNetwork/
-python3 p1_HierarchicalAttention_train.py --cache_file_h5py ../preprocess_file/data/new_data/multi_turn/hir_data.h5 --cache_file_pickle ../preprocess_file/data/new_data/multi_turn/hir_vocab_label.pik #HAN
-
 cd ../a02_TextCNN/
 python3 p7_TextCNN_train.py --cache_file_h5py ../preprocess_file/data/new_data/multi_turn/data.h51 --cache_file_pickle #CNN
 ```
 
+### Baseline 2: HAN
+#### Preprocessing
+```
+cd code/classification/preprocess_file
+python3 pre_process_predicate_hir.py --data_path "data/multi-turn/step1/"  #Generate data for HAN and DMN
+```
+
+#### Train & Test
+```
+cd ../a05_HierarchicalAttentionNetwork/
+python3 p1_HierarchicalAttention_train.py --cache_file_h5py ../preprocess_file/data/new_data/multi_turn/hir_data.h5 --cache_file_pickle ../preprocess_file/data/new_data/multi_turn/hir_vocab_label.pik #HAN
+```
+
+### Baseline 3: DMN
+#### Preprocessing
+```
+cd code/classification/preprocess_file
+python3 pre_process_predicate_hir.py --data_path "data/multi-turn/step1/"  #Generate data for HAN and DMN
+```
+
+#### Train & Test
+```
+cd ../a09_DynamicMemoryNet/
+python3 a8_train.py --cache_file_h5py ../preprocess_file/data/new_data/multi_turn/hir_data.h5 --cache_file_pickle ../preprocess_file/data/new_data/multi_turn/hir_vocab_label.pik # DMN
+```
 
 
 ## Task 2: Clarification Generation
