@@ -1,0 +1,503 @@
+Which one do you mean, <e> or <e>, when you say the active constituent? <TSP> brand Aldara <TSP> non brand Aldara
+Which one do you mean, <e> or <e>, when you say the dress designer? <TSP> non nominated work The Comet <TSP> nominated work The Comet
+Which one do you mean, <e> or <e>, when you say the producing firm? <TSP> non winning work The End of Summer <TSP> winning work The End of Summer
+When you say the variant of the release of the album, are you talking about <e> or <e>? <TSP> winning work Hello Dolly <TSP> non winning work Hello Dolly
+Are you talking about <e> or <e>, when you say the album that contains believer? <TSP> non nominated work Believer <TSP> nominated work Believer
+Do you mean <e> or <e>, when you ask the city that the team represent? <TSP> the professional basketball department of the major Greek multi-sports club A.C. PAOK <TSP> Pan-Thessaloniki Athletic Club of Constantinopolitans
+When you say the originating country of passport to paradise, are you referring to <e> or <e>? <TSP> non winning work Passport to Paradise <TSP> winning work Passport to Paradise
+When you say the division of the armed force for the unit, are you referring to <e> or <e>? <TSP> an infantry division of the British Army <TSP> an infantry division of the Imperial Japanese Army
+When you say the ethnic background of the person, are you talking about <e> or <e>? <TSP>  Welsh artist Christopher Williams <TSP> American R&B singer Christopher Williams
+Which one do you mean, <e> or <e>, when you say the color used in this paint? <TSP> the Stanford Cardinal football program <TSP> the Stanford Cardinal men's basketball team Stanford Cardinal
+Which one do you mean, <e> or <e>, when you say the color used in this paint? <TSP> the official Twitter account of the Brooklyn Kings <TSP> United States Basketball League franchise Brooklyn Kings
+Which one do you mean, <e> or <e>, when you say the dress designer? <TSP> non nominated work Two Friends <TSP> nominated work Two Friends
+Do you mean <e> or <e>, when you ask the cover artist for the book? <TSP> non winning work The Secret Hour <TSP> winning work The Secret Hour
+When you say the religious structure for christ church cathedral, are you talking about <e> or <e>? <TSP> Christ Church Cathedral in Ottawa, Ontario, Canada <TSP> the cathedral church of the Episcopal Diocese of Southern Ohio, United States
+Do you mean <e> or <e>, when you ask the creative work about the person? <TSP> City Museum in the colonial center of Quito, Ecuador <TSP> City Museum in the Washington Avenue Loft District of St. Louis, Missouri, United States
+Which one do you mean, <e> or <e>, when you say the principal city? <TSP> Linn  located in the U.S. state of Iowa <TSP> Linn in the Cedar Rapids, IA Metropolitan Statistical Area
+Are you referring to <e> or <e>, when you say the operating systems in which symphony is accessible ? <TSP>  the secure, cloud-based, communication and content sharing platform <TSP> IBM Spectrum Symphony
+Do you mean <e> or <e>? <TSP> University Peak in the Saint Elias Mountains of Alaska <TSP> University Peak  in the Sierra Nevada
+Which one do you mean, <e> or <e>, when you say the wardrobe designer? <TSP> adaptation The Real McCoy <TSP> non adaptation The Real McCoy
+When you say the name of the group of islands, are you talking about <e> or <e>? <TSP> Seymour Island near to Baltra Island in the Galapagos Islands <TSP> Seymour Island in the Qikiqtaaluk Region of northern Canada's territory of Nunavut
+Which one do you mean, <e> or <e>, when you say football team? <TSP> former American football player Ray Hamilton <TSP> professional American football player Ray Hamilton
+Are you referring to <e> or <e>, when you say the video? <TSP> series episode The Red Shoes <TSP> film The Red Shoes
+Do you mean <e> or <e>? <TSP> the costliest tropical cyclone of the 2006 Atlantic hurricane season <TSP> Category 2 hurricane and damaging tropical cyclone
+Which one do you mean, <e> or <e>, when you say the set? <TSP> winning work Take Me on <TSP> non winning work Take Me on
+Which one do you mean, <e> or <e>, when you say the business? <TSP> Senate James Webster tied with Michelle Worsley <TSP> politician James Webster
+Do you mean <e> or <e>? <TSP> tropical cyclone Hurricane Gert <TSP> the fourth of five major hurricanes in the moderately active 1999 Atlantic hurricane season
+Are you talking about <e> or <e>, when you say the album that consists of circus? <TSP> nominated work Circus <TSP> non nominated work Circus
+Are you referring to <e> or <e>, when you say the operating systems in which keynote is accessible ? <TSP> product Keynote developed as a part of the iWork productivity suite by Apple Inc. <TSP> product Keynote produced by Tranglos Software for the Windows operating system
+Which one do you mean, <e> or <e>, when you say the native? <TSP> nominated work Rate <TSP> non nominated work Rate
+Which one do you mean, <e> or <e>, when you say the renowned drug of this brand? <TSP> non brand Zyclara <TSP> brand Zyclara
+When you say the zip code of the place, are you referring to <e> or <e>? <TSP> the suburb of the Central Coast region of New South Wales <TSP> Springfield, New South Wales in the Snowy Monaro Regional Council
+Are you talking about <e> or <e>, when you say the album that contains black sheep? <TSP> tv song Black Sheep by Gin Wigmore <TSP> song Black Sheep by American country music artist John Anderson
+Are you talking about <e> or <e>, when you say the name of the active ingredient? <TSP> brand Aggrenox <TSP> non brand Aggrenox
+Do you mean <e> or <e>, when you ask the name of the fictional universe in which the fictional character appears? <TSP> character Bombshell <TSP> non character Bombshell
+When you say the body of water surrounding the island, are you referring to <e> or <e>? <TSP> King Island in Australia <TSP> King Island at the tip of Cape Melville, Queensland in Bathurst Bay
+Which one do you mean, <e> or <e>, when you say the set? <TSP> winning work Burn Bright <TSP> non winning work Burn Bright
+Do you mean <e> or <e>, when you ask the category for tropical cyclone typhoon bess? <TSP> Typhoon Bess struck Japan in early August 1982 <TSP> the Philippines as Typhoon Susang
+Are you talking about <e> or <e>, when you say the most popular drug of this brand? <TSP> brand Eylea <TSP> non brand Eylea
+When you say the division of the armed force for the unit, are you referring to <e> or <e>? <TSP> a formation of the Iraqi Army <TSP> a unit of the Prussian/German Army
+When you say the name of the island group, are you referring to the islands <e> or <e>? <TSP> Grande-Terre in the Lesser Antilles <TSP> Grande-Terre in the northern Mozambique Channel in the Indian Ocean
+When you say the publisher of the game, are you talking about <e> or <e>? <TSP> non winning work Virginia <TSP> winning work Virginia
+Which one do you mean, <e> or <e>, when you say the most famous drug of this brand? <TSP> brand Miostat <TSP> non brand Miostat
+Which one do you mean, <e> or <e>, when you say the hue used? <TSP> the Connecticut Huskies men's basketball program  <TSP> the Connecticut Huskies football team
+Which one do you mean, <e> or <e>, when you say the apparel designer? <TSP> non nominated work Holy Rollers <TSP> nominated work Holy Rollers
+Which one do you mean, <e> or <e>, when you say the name of the chief city? <TSP> Richmond in the U.S <TSP> Richmond in the Canadian province of Nova Scotia
+Do you mean <e> or <e>, when you ask the category for tropical cyclone hurricane iris? <TSP> the ninth named storm Hurricane Iris <TSP> the most destructive hurricane in Belize
+Are you referring to <e> or <e>, when you say the part of the armed force unit? <TSP> 13th Division created in January 1950 <TSP> 13th Division raised by the Imperial Japanese Army
+When you say the name of the city that the team represents, are you talking about <e> or <e>? <TSP> baseball team Portland Pilots <TSP> basketball team Portland Pilots
+When you say the place of origin of the person, are you referring to <e> or <e>? <TSP> American Journalist Robert X. Cringely <TSP> tv actor Robert X. Cringely
+Are you referring to <e> or <e>, when you say the area which received the broadcast wbuz? <TSP> Nashville's Rock Station <TSP> WBUZ owned by Henry Serafin
+Which one do you mean, <e> or <e>, when you say the active constituent? <TSP> non brand TussiCaps <TSP> brand TussiCaps
+Do you mean <e> or <e>, when you ask the aircraft? <TSP> Falcon built by the American aircraft manufacturer Curtiss Aeroplane and Motor Company <TSP> Falcon produced by Wills Wing
+Which one do you mean, <e> or <e>, when you say the pigment? <TSP> the intercollegiate American football team Fordham Rams <TSP> the Fordham Rams men's basketball team
+When you say the place of origin of the person, are you referring to <e> or <e>? <TSP> football player Bob Barber <TSP> rugby union player Barber
+Are you referring to <e> or <e>, when you say the publisher of the game? <TSP> consumer product Shadowrun <TSP> non consumer product Shadowrun
+Are you talking about <e> or <e>, when you say the featured song in merrily we roll along? <TSP> adaptation Merrily We Roll Along <TSP> 1934 play Merrily We Roll Along
+Are you talking about <e> or <e>, when you say the album that consists of live it up? <TSP> nominated work Live It Up <TSP> non nominated work Live It Up
+Are you talking about <e> or <e>, when you say <e>'s subject? <TSP> winning work Be My Baby <TSP> play Be My Baby
+Which one do you mean, <e> or <e>, when you say the active additive? <TSP> non brand Duetact <TSP> brand Duetact
+Do you mean <e> or <e>, when you ask the name of the lyric written by this person? <TSP> non musician Katie Mac <TSP> musician Katie Mac
+Do you mean <e> or <e>, when you ask the nationality of the person? <TSP> director Alan Parker <TSP> long-distance runner Alan Parker
+Which one do you mean, <e> or <e>, when you say the artist? <TSP> adaptation Star Wars: The Empire Strikes Back <TSP> non adaptation Star Wars: The Empire Strikes Back
+Which one do you mean, <e> or <e>, when you say  the name of the chief city? <TSP> non dated location Chobanids <TSP> dated location Chobanids
+Which one do you mean, <e> or <e>, when you say the dress designer? <TSP> nominated work The Event <TSP> non nominated work The Event
+Which one do you mean, <e> or <e>, when you say the pigment? <TSP> non sports agent Ole Miss Rebels <TSP> sports agent Ole Miss Rebels
+Do you mean <e> or <e>, when you ask the creative work about the person? <TSP> project focus Museum of Arts and Sciences <TSP> art gallery Museum of Arts and Sciences
+Do you mean <e> or <e>, when you say the regions for slovakian? <TSP> Indo-European language Slovakian <TSP> South Slavic language Slovakian
+Are you referring to <e> or <e>, when you ask the ship classes of hms dorsetshire? <TSP> heavy cruiser HMS Dorsetshire <TSP> third rate ship HMS Dorsetshire
+Do you mean <e> or <e>, when you ask the aircraft? <TSP> aircraft Concorde <TSP> Aérospatiale-BAC Concorde
+Which one do you mean, <e> or <e>, when you say the renowned drug of this brand? <TSP> non brand WP Thyroid <TSP> brand WP Thyroid
+When you say the name of the album that consist kids, are you referring to <e> or <e>? <TSP> nominated work Kids <TSP> non nominated work Kids
+Which one do you mean, <e> or <e>, when you say the type of award competition that season 12 participates in? <TSP> media season Season 12 <TSP> non media season Season 12
+Do you mean <e> or <e>? <TSP> destination Table Mountain <TSP> non destination Table Mountain
+Which one do you mean, <e> or <e>, when you say the fashioner? <TSP> nominated work Final Fantasy IV <TSP> work of fiction Final Fantasy IV
+Which one do you mean, <e> or <e>, when you say the scripter? <TSP> nominated work War Machine <TSP> non nominated work War Machine
+Are you talking about <e> or <e>, when you ask the software license state of symphony? <TSP> non product Symphony <TSP> product Symphony
+Do you mean <e> or <e>, when you ask the groups for the island? <TSP> Cooper Island in the Caribbean <TSP> Cooper Island in Georgia
+When you say the section of the armed force for the unit, are you talking to <e> or <e>? <TSP> Ninth Army Corps IX Corps <TSP> IX Corps existed during the Napoleonic Wars
+Which one do you mean, <e> or <e>, when you say the native? <TSP> non winning work Blankety Blanks <TSP> winning work Blankety Blanks
+Do you mean <e> or <e>, when you ask the type of release of the album? <TSP> Strictly Business released at 1991 <TSP> Strictly Business released at 2011
+Which one do you mean, <e> or <e>, when you say the livelihood? <TSP> cinematographer Sheila Altamirano <TSP> film director Sheila Altamirano
+Which one do you mean,  <e> or <e>, when you ask the place of origin? <TSP> nominated work Coma <TSP> non nominated work Coma
+Are you referring <e> or <e>, when you say the building use for religious purposes by st. mark's episcopal church? <TSP> non place of worship St. Mark's Episcopal Church <TSP> place of worship St. Mark's Episcopal Church
+When you say the video, are you talking about <e> or <e>? <TSP> film Man of Steel <TSP> series episode Man of Steel
+Which one do you mean, <e> or <e>, when you say Tony Davis? <TSP> non sports agent Tony Davis <TSP> sports agent Tony Davis
+Which one do you mean,  <e> or <e>, when you ask the place of origin? <TSP> non winning work 60 Minutes <TSP> winning work 60 Minutes
+Are you talking about <e> or <e>, when you say the postcode of the place? <TSP> us hud county place seymour <TSP> admin division 3 seymour
+Do you mean <e> or <e>, when you ask the occupation? <TSP> founder Shawn Collins <TSP> actor Shawn Collins
+When you say the area that can receive a broadcast wftv, are you referring to <e> or <e>? <TSP> nominee WFTV <TSP> WFTV Channel 38
+Are you talking about <e> or <e>, when you say the actor starring in the tv program? <TSP> TV program Cumbres borrascosas <TSP> Mexican telenovela Cumbres borrascosas
+Which one do you mean, <e> or <e>, when you say the active constituent? <TSP> brand Margesic <TSP> non brand Margesic
+Which one do you mean, <e> or <e>, when you say the maker? <TSP> product Unreal Tournament <TSP> non product Unreal Tournament
+Which one do you mean, <e> or <e>, when you say the fashioner? <TSP> product Earthworm Jim <TSP> game Earthworm Jim
+Do you mean <e> or <e>, when you ask the studio? <TSP> nominated work A Question of Guilt <TSP> non nominated work A Question of Guilt
+When you mention the term spouse of the person, are you referring to <e> or <e>? <TSP> non deceased person Nancy Greer <TSP> deceased person Nancy Greer
+Which one do you mean, <e> or <e>, when you say the sequel? <TSP> non winning work Speak No Evil <TSP> winning work Speak No Evil
+Do you mean <e> or <e>, when you ask the video of the entity? <TSP> series episode To Have and Have Not <TSP> film To Have and Have Not
+When you ask the kind of the broadcast, are you talking about <e> or <e>? <TSP> non fm terrestrial broadcast facility Heritage Radio <TSP> fm terrestrial broadcast facility Heritage Radio
+Are you referring to <e> or <e>, when you say the award won by george richardson? <TSP> non nominee George Richardson <TSP> nominee George Richardson
+Which one do you mean, <e> or <e>, when you say the sequel? <TSP> winning work The Scourge <TSP> non winning work The Scourge
+When you say the aircraft, are you talking about <e> or <e>? <TSP> personal aircraft Transition <TSP> roadable airplane Transition
+When you say the school located in the place, are you referring to <e> or <e>? <TSP> employer Morgan County <TSP> non employer Morgan County
+Which one do you mean, <e> or <e>, when you say the firm? <TSP> author Mayank Jain <TSP> non author Mayank Jain
+Are you talking about <e> or <e>, when you say the competition in which the x factor participated in? <TSP> non media season The X Factor <TSP> media season The X Factor
+Are you talking about <e> or <e>, when you ask the reason of death? <TSP> non player David Clark <TSP> player David Clark
+Are you referring to <e> or <e>, when you say the language mostly spoken in south ossetia? <TSP> South Ossetia in Georgia <TSP> South Ossetia at South Caucasus
+Are you referring to <e> or <e>, when you say the person playing a role in the tv program? <TSP> film Knight Rider <TSP> non film Knight Rider
+Are you talking about the wife of <e> or the wife of <e>? <TSP> deceased person George Brownfield <TSP> non deceased person George Brownfield
+When referring to the person who starred in the film ,are you referring to <e> or <e>? <TSP> nominated work Chapter Two <TSP> non nominated work Chapter Two
+Which one do you mean, <e> or <e>, when you say the root? <TSP> non nominated work Come Fly with Me <TSP> nominated work Come Fly with Me
+Are you referring to <e> or <e>, when you say the part of the armed force unit? <TSP> unit 35th Infantry Division <TSP> non unit 35th Infantry Division
+Which one do you mean, <e> or <e>, when you say the color used in this paint? <TSP> The Kentucky Wildcats men's basketball team <TSP> Official Twitter account for the University of Kentucky Football team
+Are you talking about <e> or <e>, when you say the software license state of vox? <TSP> computer videogame Vox <TSP> audio player Vox
+When you say the artist of the broadcast, are you referring to <e> or <e>? <TSP> radio program The Adam Carolla Show <TSP> free FM The Adam Carolla Show
+Which one do you mean,  <e> or <e>, when you say the the name of the series? <TSP> work of fiction Interesting Times <TSP> non work of fiction Interesting Times
+Which one do you mean, <e> or <e>, when you say  the maker? <TSP> program Clover <TSP> adaptation Clover
+Do you mean <e> or <e>? <TSP> non event Hurricane Rick <TSP> event Hurricane Rick
+Are you talking about <e> or <e>, when you say the artist of the broadcast? <TSP> winning work All Things Considered <TSP> non winning work All Things Considered
+Which one do you mean, <e> or <e>, when you say the most wanted drug of the brand? <TSP> brand Sprintec <TSP> non brand Sprintec
+Which one do you mean, <e> or <e>, when you say the renowned drug of this brand? <TSP> non brand Evamist <TSP> brand Evamist
+Are you talking about <e> or <e>, when you say the name of the active ingredient? <TSP> non brand Xylon 10 <TSP> brand Xylon 10
+Which one do you mean, <e> or <e>, when you say the press? <TSP> consumer product Unreal Tournament <TSP> non consumer product Unreal Tournament
+Do you mean <e> or <e>, when you ask the contributed literary series of the author? <TSP> writer Anders Jacobsson <TSP> actor Anders Jacobsson
+Which one do you mean, <e> or <e>, when you say the group? <TSP> non adaptation A Call to Arms <TSP> adaptation A Call to Arms
+Which one do you mean, <e> or <e>, when you ask the place of origin? <TSP> non winning work This Is Your Life <TSP> winning work This Is Your Life
+Do you mean <e> or <e>, when you ask the name of the fictional universe in which the fictional character appears? <TSP> game character Faith <TSP> character Faith
+Which one do you mean, <e> or <e>, when you say the place it came from? <TSP> adapted work Men Behaving Badly <TSP> winning work Men Behaving Badly
+When you say operating systems in which showcase works, are you referring to <e> or <e>? <TSP> non consumer product Showcase <TSP> consumer product Showcase
+When you say the aircraft, are you talking about <e> or <e>? <TSP> light aircraft Model E <TSP> early aircraft Model E
+Are you talking about <e> or <e>, when you say <e>'s subject? <TSP> non winning work Love-Lies-Bleeding <TSP> winning work Love-Lies-Bleeding
+Do you mean <e> or <e>, when you ask the name of the fictional universe in which the fictional character appears? <TSP> agent Oberon <TSP> character Oberon
+Are you talking about <e> or <e>, when you say the child's name? <TSP> organism Berthold Hochschild <TSP> non organism Berthold Hochschild
+Do you mean <e> or <e>, when you ask the category for tropical cyclone tropical storm erika? <TSP> the most destructive natural disaster Tropical Storm Erika <TSP> short-lived tropical cyclone Tropical Storm Erika
+Are you referring to <e> or <e>, when you say the area which received the broadcast radio monte carlo? <TSP> radio station owner Radio Monte Carlo <TSP> fm terrprivate French-Monégasque radio station Radio Monte Carlo
+When you say the name of the group of islands, are you talking about <e> or <e>? <TSP> Spanish Isla Victoria <TSP> Victoria Island in the Canadian Arctic Archipelago
+When you say the edition of the game, are you talking about <e> or <e>? <TSP> consumer product Metal Gear Solid 3: Subsistence <TSP> nominated work Metal Gear Solid 3: Subsistence
+Are you talking about <e> or <e>, when you say the birthplace of the person? <TSP> agent Lucien Heath <TSP> politician Lucien Heath
+Which one do you mean, <e> or <e>, when you say the essay? <TSP> author Julia Nelson <TSP> chef Julia Nelson
+Which one do you mean, <e> or <e>, when you say the producing enterprise? <TSP> non adaptation Man in the Dark <TSP> adaptation Man in the Dark
+When you say the division of the armed force for the unit, are you referring to <e> or <e>? <TSP> unit 72nd Division <TSP> non unit 72nd Division
+Which one do you mean,  <e> or <e>, when you say the costume designer? <TSP> nominated work Staying Alive <TSP> non nominated work Staying Alive
+Do you mean <e> or <e>, when you ask the cover artist for the book? <TSP> collection Viriconium <TSP> book Viriconium
+Do you mean <e> or <e>, when you ask the branch of armed force for the unit? <TSP> active duty airborne infantry division 82nd Infantry Division <TSP> ninfantry formation of the Russian Imperial Army
+Which one do you mean, <e> or <e>, when you say the group? <TSP> non winning work Far from Home <TSP> winning work Far from Home
+When you say the name of the city that the team represents, are you talking about <e> or <e>? <TSP> Pakistan Government's multi-program national research institute <TSP> Pakistani football club
+Are you talking about <e> or <e>, when you say the areas of koro? <TSP> Sino-Tibetan language Koro <TSP> Oceanic language spoken on Gaua
+Are you referring to <e> or <e>, when you say the part of the armed force unit? <TSP> unit 3rd Cavalry Division <TSP> non unit 3rd Cavalry Division
+Which one do you mean, <e> or <e>, when you say  the active additive? <TSP> Avalide tablets <TSP> brand Avalide
+Which one do you mean, <e> or <e>, when you say the explaination of the demise? <TSP> person John Glover <TSP> non person John Glover
+Which one do you mean, <e> or <e>, when you say the color used in this paint? <TSP> non team Furman Paladins <TSP> team Furman Paladins
+Which one do you mean, <e> or <e>, when you say the explaination of the demise? <TSP> organism Michael Evans <TSP> non organism Michael Evans
+When you say the place of origin of the person, are you referring to <e> or <e>? <TSP> alpine skier Florence Bell <TSP> dramatist Florence Bell
+When you say the video, are you talking about <e> or <e>? <TSP> program How the States Got Their Shapes <TSP> series episode How the States Got Their Shapes
+Do you mean <e> or <e>, when you ask the organization founded? <TSP> non author David E. Culler <TSP> author David E. Culler
+Which one do you mean, <e> or <e>, when you say Troy Smith? <TSP> founder Troy Smith <TSP> non founder Troy Smith
+Which one do you mean, <e> or <e>, when you say George Shaw? <TSP> athlete George Shaw <TSP> non athlete George Shaw
+Which one do you mean, <e> or <e>, when you say the business? <TSP> non costume designer Laura Petersen <TSP> costume designer Laura Petersen
+Are you referring <e> or <e>, when you say the building use for religious purposes by santi quirico e giulitta? <TSP> Saints Quiricus and Julietta <TSP> church Santi Quirico e Giulitta
+Are you talking about <e> or <e>, when you say the album that consists of mama? <TSP> nominated work Mama <TSP> non nominated work Mama
+Are you talking about <e> or <e>, when you say the religious architecture of st. francis xavier church? <TSP> place of worship St. Francis Xavier Church <TSP> namesake St. Francis Xavier Church
+When you say wife of the person, are you referring to <e> or <e>? <TSP> non deceased person Eduard Kübbar <TSP> deceased person Eduard Kübbar
+When you say the star of the tv program, are you referring to <e> or <e>? <TSP> non winning work The Code <TSP> winning work The Code
+Are you talking about <e> or <e>, when you say the name of the active ingredient? <TSP> non brand Carac <TSP> brand Carac
+Do you mean <e> or <e>, when you say the name of the capital? <TSP> partido Avellaneda <TSP> department of Argentina Avellaneda
+Are you talking about <e> or <e>, when you ask the setting earth related to? <TSP> star system body Earth <TSP> fictional setting Earth
+Which one do you mean, <e> or <e>, when you say  the artistic operation? <TSP> author John Duncan <TSP> deceased organism John Duncan
+When you say the award won by sir henry jackson, are you referring to <e> or <e>? <TSP> nominee Sir Henry Jackson <TSP> non nominee Sir Henry Jackson
+Are you talking about <e> or <e>, when you say the postcode of the place? <TSP> Milan township in the U.S. state of Michigan <TSP> Milan township in east central Allen County
+Are you talking about <e> or <e>, when you say the postcode of the place? <TSP> admin division 3 Buckow <TSP> non admin division 3 Buckow
+When you say the classification of the ship hms terror, are you referring to <e> or <e>? <TSP> bomb vessel HMS Terror <TSP> Erebus-class monitor HMS Terror
+Do you mean <e> or <e>, when you ask the branch of armed force for the unit? <TSP> the unit of the Imperial German Army <TSP> the infantry formation of the Russian Imperial Army
+When you say wife of the person, are you referring to <e> or <e>? <TSP> deceased person Anna Rapalje <TSP> non deceased person Anna Rapalje
+Are you talking about the game <e> or the game <e>, when you say the publisher of the game? <TSP> consumer product River Rescue <TSP> non consumer product River Rescue
+When you say the edition of the game, are you talking about <e> or <e>? <TSP> consumer product Super Punch-Out!! <TSP> non consumer product Super Punch-Out!!
+Are you referring to <e> or <e>, when you ask the ship classes of rrs discovery? <TSP> British Royal Research Ship RRS Discovery <TSP> traditional wooden three-masted ship RRS Discovery
+Which one do you mean, <e> or <e>, when you say the wardrobe designer? <TSP> non winning work The Christening <TSP> winning work The Christening
+Which one do you mean, <e> or <e>, when you say the hue used? <TSP> non team Illinois State Redbirds <TSP> team Illinois State Redbirds
+Are you talking about <e> or <e>, when you say the first ascent of glen dawson? <TSP> mountaineer Glen Dawson <TSP> non mountaineer Glen Dawson
+Which one do you mean, <e> or <e>, when you say the active constituent? <TSP> non brand Bactrim DS <TSP> brand Bactrim DS
+Do you mean <e> or <e>, when you ask the actor in the tv program? <TSP> drama When Duty Calls <TSP> film When Duty Calls
+Which one do you mean, <e> or <e>, when you say the wardrobe designer? <TSP> non adaptation The Twin <TSP> adaptation The Twin
+Which one do you mean, <e> or <e>, when you say the active element? <TSP> non brand Akynzeo <TSP> brand Akynzeo
+When you say the work related to this person, are you talking about <e> or <e>? <TSP> Frederick Law Olmsted National Historic Site <TSP> The John Fitzgerald Kennedy National Historic Site
+Which one do you mean, <e> or <e>, when you say Jim Price? <TSP> professional American football linebacker Jim Price <TSP> former American football player Jim Price
+Are you talking about <e> or <e>, when you say the country from which edge of darkness originated froms? <TSP> nominated work Edge of Darkness <TSP> non nominated work Edge of Darkness
+Are you referring to <e> or <e>, when you say the place from which pathos originates? <TSP> non winning work Pathos <TSP> winning work Pathos
+When you say the address where the event took place, are you referring to <e> or <e>? <TSP> sports event Men's Club Swinging <TSP> Indian club swinging
+Are you talking about <e> or <e>, when you say the type of release of the album? <TSP> soundtrack Die Another Day <TSP> Die Another Day by Madonna
+Are you referring to <e> or <e>, when you say the part of the armed force unit? <TSP> a brigade of the Irish Army <TSP> a brigade-sized infantry unit of the Australian Army
+Which one do you mean, <e> or <e>, when you say the business? <TSP> retired Australian racing driver Brad Jones <TSP> musical artist Brad Jones
+Which one do you mean, <e> or <e>, when you say the inventor? <TSP> non nominated work Marshall <TSP> nominated work Marshall
+Which one do you mean, <e> or <e>, when you say the municipality? <TSP> a client state of the German Empire <TSP> duchy in the Baltic region
+Which one do you mean, <e> or <e>, when you say the producing enterprise? <TSP> non adaptation Single-Handed <TSP> adaptation Single-Handed
+When you the say nationality of the person, are you referring to <e> or <e>? <TSP> Israeli businessman Alexander Mashkevitch <TSP> investor Alexander Mashkevitch
+When you say the name of the city that the team represents, are you talking about <e> or <e>? <TSP> American professional soccer club Atlanta Beat <TSP> professional soccer team Atlanta Beat
+Do you mean <e> or <e>, when you ask other brand names for propoxyphene? <TSP> chemical compound Propoxyphene <TSP> non chemical compound Propoxyphene
+When you say the name of the group of islands, are you talking about <e> or <e>? <TSP> Necker Island in the British Virgin Islands <TSP> Necker Island in the Pacific Ocean
+Do you mean <e> or <e>, when you ask the operating system where shapeshifter can work? <TSP> Application Enhancer (APE) plugin Shapeshifter <TSP> a freeware clipboard history manager
+Are you referring to <e> or <e> when you say the work contributed by this author in the literary series? <TSP> Australian Watson, John R. (John Reay) <TSP> Watson, John R. borin in 1956
+When you say the video, are you talking about <e> or <e>? <TSP> film The Whole Truth <TSP> series episode The Whole Truth
+Do you mean <e> or <e>? <TSP> the highest mountain of Greece <TSP> Mount Olympus in the Olympic Mountains of western Washington state
+Are you talking about <e> or <e>, when you say the song recorded for the album? <TSP> nominated work Animal <TSP> non nominated work Animal
+Are you talking about <e> or <e>, when you ask the setting bandara related to? <TSP> a location in the Sacred Band of Stepsons fictional universe <TSP> the biggest island in the chain called the misty isles
+Which one do you mean, <e> or <e>, when you say the principal city? <TSP> Fairfield located in the U.S. state of Ohio. <TSP>  Fairfield located in the U.S. state of South Carolina. 
+Which one do you mean, <e> or <e>, when you say the color used in this paint? <TSP> UTSA Roadrunners football program <TSP> UTSA Roadrunners men's basketball team
+Which one do you mean, <e> or <e>, when you say Ed Brown? <TSP> American football quarterback Ed Brown <TSP> American football player Ed Brown
+When you say the place of origin of the person, are you referring to <e> or <e>? <TSP> American Basketballer Alan Anderson <TSP> Scottish former professional footballer Alan Anderson
+Which one do you mean, <e> or <e>, when you say the producing enterprise? <TSP> winning work Great Expectations <TSP> non winning work Great Expectations
+Are you referring to <e> or <e>, when you say the origin of the person? <TSP> musician David Williams <TSP> actor David Williams
+Are you referring to <e> or <e>, when you say the video? <TSP> series episode The Public Eye <TSP> film The Public Eye
+Which one do you mean, <e> or <e>, when you say the wardrobe designer? <TSP> non winning work In the Name of the Father <TSP> winning work In the Name of the Father
+Do you mean <e> or <e>? <TSP> Mount Lyell in western Canada <TSP> Mount Lyell in Yosemite National Park
+Which one do you mean, <e> or <e>, when you say the enterprise founded? <TSP> Australian technology entrepreneur Michael Malone <TSP> CEO Michael Malone
+When you say the city this team represents, are you referring to <e> or <e>? <TSP> official Twitter account <TSP> Australian rules football club Melbourne City
+Are you talking about <e> or <e>, when you say the city represented by the team? <TSP>  Ninjas in Pyjamas established in 2000 <TSP> a Swedish eSports organization
+Are you referring to <e> or <e>, when you say the airliner? <TSP> experimental turboprop aircraft Lightning <TSP> a fighter aircraft Lightning
+Which one do you mean, <e> or <e>, when you say the livelihood? <TSP> actor Krishna Raj <TSP> politician Krishna Raj
+Are you referring to <e> or <e>, when you say the artist of the cover? <TSP> nominated work Theft: A Love Story <TSP> winning work Theft: A Love Story
+Are you talking about <e> or <e>, when you say the place where the telecast tigre fm can be received? <TSP> TIGRE FM licensed to Greeley, Colorado, USA <TSP> TIGRE FM licensed to Rye, Colorado, USA
+Do you mean <e> or <e>, when you ask the position of the football player? <TSP> American football safety Robert Smith <TSP> the former American football player
+Do you mean <e> or <e>, when you ask the name of the fictional universe in which the fictional character appears? <TSP> Dodo played by Jackie Lane <TSP> character Dodo in the drama fantasy TV mini-series Alice
+Do you mean <e> or <e>, when you ask the occupation? <TSP> actor Jim Kent <TSP> scientist Jim Kent
+Do you mean <e> or <e>? <TSP> the early season hurricane <TSP> the category 4 hurricane
+When you say the work related to this person, are you talking about <e> or <e>? <TSP> notorious serial killer Jack the Ripper <TSP>  unidentified serial killer Jack the Ripper
+When you say nationality of the person, are you referring to <e> or <e>? <TSP> Spanish football striker Daniel Calvo <TSP> the Santiago Court of Appeals judge of the Republic of Chile
+Are you referring to <e> or <e>, when you say the artist of the cover? <TSP> winning work Out of the Dark <TSP> non winning work Out of the Dark
+Which one do you mean, <e> or <e>, when you say the maker? <TSP> non winning work Quiet Please! <TSP> winning work Quiet Please!
+Are you referring to <e> or <e>, when you say the state of the software license of tracker? <TSP> a file indexing and search framework <TSP> a graphical user interface
+Which one do you mean, <e> or <e>, when you say the active additive? <TSP> non brand Nuedexta <TSP> brand Nuedexta
+Which one do you mean, <e> or <e>, when you say the firm? <TSP> American comic-book artist Rafael Navarro <TSP> co-founder Rafael Navarro
+Which one do you mean, <e> or <e>, when you say the most famous drug of this brand? <TSP> non brand Optase <TSP> brand Optase
+Do you mean <e> or <e>, when you ask the area that can receive the boradcast ksgc? <TSP> KSGC licensed to Tusayan, Arizona, USA <TSP> KSGC licensed to Tusayan, Arizona, United States
+When you say the star of the tv program, are you referring to <e> or <e>? <TSP> television series War of the Worlds <TSP> film War of the Worlds
+Which one do you mean, <e> or <e>, when you say the maker? <TSP> adaptation Misty <TSP> nominated work Misty
+Do you mean <e> or <e>, when you ask the cover artist for the book? <TSP> winning work The Last Defender of Camelot <TSP> non winning work The Last Defender of Camelot
+Which one do you mean, <e> or <e>, when you say the artistic operation? <TSP> Alfred Stevens born in Brussels <TSP> British Alfred Stevens
+Are you talking about <e> or <e>, when you ask the reason of death? <TSP> Presiding Patriarch John Smith <TSP> actor John Smith
+When you say the subject of <e>, are you referring to <e> or <e>? <TSP> nominated work Creature of the Night <TSP> non nominated work Creature of the Night
+Are you talking about <e> or <e>, when you say the event that occurred in uptown theatre napa? <TSP> Uptown Theatre Napa located in Napa, California <TSP> Uptown Theatre Napa in the Midtown area of Kansas City, Missouri
+Are you talking about <e> or <e>, when you say the birthplace of the person? <TSP> British Tommy Charlton <TSP> English Tommy Charlton
+When you say the ethnic background of the person, are you talking about <e> or <e>? <TSP> author Jim Kelly <TSP> actor Jim Kelly
+Do you mean <e> or <e>, when you ask the occupation? <TSP> the British politician <TSP> the author
+Which one do you mean, <e> or <e>, when you say the sequel? <TSP> the science fiction short story <TSP> the nominated work Robot Dreams
+Which one do you mean, <e> or <e>, when you say the apparel designer? <TSP> non nominated work The Light Thief <TSP> nominated work The Light Thief
+Are you referring to <e> or <e> when you say the work contributed by this author in the literary series? <TSP> co-founder Francesca Cavallo <TSP> Italian writer Francesca Cavallo
+Do you mean <e> or <e>, when you ask the release of the album? <TSP> nominated work Mucho <TSP> non nominated work Mucho
+Do you mean <e> or <e>, when you ask the category for tropical cyclone tropical storm jerry? <TSP> the short-lived tropical storm <TSP> event Tropical Storm Jerry in 1982
+When you say the division of the armed force for the unit, are you referring to <e> or <e>? <TSP> the cavalry regiment of the British Army <TSP> the cuirassier regiment in the Royal Danish Army
+Which one do you mean, <e> or <e>, when you say the establishment? <TSP> film Without a Trace <TSP> winning work Without a Trace
+Do you mean <e> or <e>, when you ask the organization founded? <TSP> entrepreneur Erik Anderson <TSP> founder Erik Anderson
+When you say the aircraft, are you talking about <e> or <e>? <TSP> the German two-place, paraglider <TSP> the American powered parachute Twin
+Which one do you mean, <e> or <e>, when you say the business? <TSP> producer Heike Wiehle-Timm <TSP> writer Heike Wiehle-Timm
+Do you mean <e> or <e>, when you ask the video of the entity? <TSP> film House of the Rising Sun <TSP> series episode House of the Rising Sun
+Are you referring <e> or <e>, when you say the building use for religious purposes by first baptist church? <TSP> the largest church in Bay County <TSP> the historic Baptist church
+When you say the place of origin of the person, are you referring to <e> or <e>? <TSP> editor Joe Russo <TSP> artist Joe Russo
+Do you mean <e> or <e>? <TSP> the strongest hurricane and final tropical cyclone of the 1995 Pacific hurricane season <TSP> the long-lasting Category 4 hurricane in the 2001 Pacific hurricane season
+Are you talking about <e> or <e>, when you say the language most people speak in samoa? <TSP> Western Samoa <TSP> the Samoa International Cricket Association
+Do you mean <e> or <e>, when you ask the occupation? <TSP> politician Robert Johansson <TSP> actor Robert Johansson
+When you say the zip code of the place, are you referring to <e> or <e>? <TSP> census-designated place St Johns <TSP> the unincorporated community St Johns
+When you say the originating country of bulletproof, are you referring to <e> or <e>? <TSP> nominated work Bulletproof <TSP> non nominated work Bulletproof
+Which one do you mean, <e> or <e>, when you say the factor responsible for the death? <TSP> Philip borin in 29 August 1116 <TSP> Philip II of Macedon
+When you say the name of the island group, are you referring to the islands <e> or <e>? <TSP> the uninhabited island <TSP> the island in the Boston Harbor
+Which one do you mean, <e> or <e>, when you say the color used in this paint? <TSP> the minor league ice hockey team <TSP> the professional hockey team
+Which one do you mean, <e> or <e>, when you say the most famous drug of this brand? <TSP> brand Macugen <TSP> non brand Macugen
+Do you mean <e> or <e>? <TSP> volcano Diamond Peak <TSP> the highest point in the Lemhi Range
+When you say the publisher of the game, are you talking about <e> or <e>? <TSP> graphical adventure game Wizardry <TSP> a series of role-playing video games
+When you say the ethnic background of the person, are you talking about <e> or <e>? <TSP> American football player Tony Martin <TSP> actor Tony Martin
+Which one do you mean, <e> or <e>, when you say the establishment? <TSP> winning work Gridiron Gang <TSP> non winning work Gridiron Gang
+Are you referring to <e> or <e>, when you say the area which received the broadcast discovery channel? <TSP> the Arabian version of the Discovery Channel <TSP> TV station Discovery Channel
+Do you mean <e> or <e>, when you ask the name of the fictional universe in which the fictional character appears? <TSP>  one of the members of the Sacred Band of Thebes <TSP> military character Simias
+When you say the zip code of the place, are you referring to <e> or <e>? <TSP> the suburb in the Inner West of Sydney <TSP> the principal city on the island of Rhodes in the Dodecanese, Greece
+Which one do you mean, <e> or <e>, when you say the municipality? <TSP> the historical region in northern Germany <TSP> the county located in the U.S. state of North Carolina
+When you say the ethnic background of the person, are you talking about <e> or <e>? <TSP> the CEO of Diplomat Records <TSP> Jimmy Jones born on June 2, 1937
+Which one do you mean, <e> or <e>, when you ask the creator of sextant? <TSP> Sextant for measuring the positions of stars <TSP> Sextant for measuring the angular distance between two visible objects.
+Do you mean <e> or <e>, when you ask the area that can receive the boradcast terminal radio? <TSP> Terminal Radio  in the city of Valdez, Alaska <TSP> Terminal Radio in Glennallen, Alaska
+Which one do you mean, <e> or <e>, when you say the renowned drug of this brand? <TSP> brand Prestalia <TSP> non brand Prestalia
+Which one do you mean, <e> or <e>, when you ask the place of origin? <TSP> nominated work True Stories <TSP> non nominated work True Stories
+When you say the name of the group of islands, are you talking about <e> or <e>? <TSP> Long Island in Queensland, Australia <TSP> Long Island in Qikiqtaaluk Region, Nunavut
+When you say the venue for the first performance of otello, are your referring to <e> or <e>? <TSP> Otello in four acts by Giuseppe Verdi <TSP> Otello in three acts by Gioachino Rossini
+When you say the software license state of komodo, are you referring to <e> or <e>? <TSP> UCI chess engine Komodo <TSP> free text editor Komodo
+Are you talking about <e> or <e>, when you say the software license state of write!? <TSP> word processor Write! <TSP> text editor Write!
+Are you talking about <e> or <e>, when you say the country from which matchless originated froms? <TSP> film Matchless <TSP> winning work Matchless
+When you say the name of the album that consist my body, are you referring to <e> or <e>? <TSP> nominated work My Body <TSP> non nominated work My Body
+When you say the term airliner, are you referring about <e> or <e>? <TSP> the Fokker Universal <TSP> the Neiva N621 Universal
+Which one do you mean, <e> or <e>, when you say his kid’s name? <TSP> the daughter of John Manners <TSP> the spouse of Henry Capell
+Which one do you mean,  <e> or <e>, when you ask the film producer? <TSP> non nominated work Men with Guns <TSP> nominated work Men with Guns
+Do you mean <e> or <e>, when you ask the actor in the tv program? <TSP> non nominated work Doc <TSP> nominated work Doc
+Which one do you mean, <e> or <e>, when you say the essay? <TSP> author Jonathan Penn <TSP> founder Jonathan Penn
+Do you mean <e> or <e>, when you ask the body of water for the island? <TSP> the island located in the western part of the Visayas <TSP> Panay located northwest of Catanduanes Island in the Bicol Region
+When you say the place at which the album can be purchased online, are you talking about <e> or <e>? <TSP> winning work Casting Shadows <TSP> non winning work Casting Shadows
+When you say the aircraft, are you talking about <e> or <e>? <TSP> Gin Nomad <TSP> GAF Nomad
+Are you talking about the wife of <e> or the wife of <e>? <TSP> deceased person Hepzibah Earle <TSP> non deceased person Hepzibah Earle
+When you say the video, are you talking about <e> or <e>? <TSP> program The Yard <TSP> series episode The Yard
+Do you mean <e> or <e>, when you ask the studio? <TSP> non winning work Grandmaster <TSP> winning work Grandmaster
+When you the say nationality of the person, are you referring to <e> or <e>? <TSP> artist James Alexander <TSP> actor James Alexander
+Are you talking about <e> or <e>, when you say the location of the first performance of griselda? <TSP> Griselda composed by Antonio Vivaldi <TSP> Griselda composed by Antonio Maria Bononcini
+When you say the term airliner, are you referring about <e> or <e>? <TSP> AgustaWestland AW101n <TSP> Layzell Merlin
+When you the say nationality of the person, are you referring to <e> or <e>? <TSP> founder William Roberts <TSP> politician William Roberts
+Which one do you mean, <e> or <e>, when you ask the film producer? <TSP> film A Doll's House <TSP> 1973 British film A Doll's House
+Do you mean <e> or <e>, when you say the name of the capital? <TSP> Pasco in central Peru <TSP> Pasco in the U.S. state of Florida
+Which one do you mean, <e> or <e>, when you say the maker? <TSP> film The Law <TSP> 2000 TV film The Law
+Do you mean <e> or <e>, when you ask the ethnicity of the person? <TSP> the Canadian astronomer <TSP> politician David Levy
+Which one do you mean, <e> or <e>, when you say Bob McChesney? <TSP> Bob McChesney born in July 12, 1912 <TSP> McChesney borin in October 27, 1926
+Do you mean <e> or <e>, when you ask the actor in the tv program? <TSP> winning work Wheel of Fortune <TSP> non winning work Wheel of Fortune
+Which one do you mean, <e> or <e>, when you say the producing enterprise? <TSP> winning work Ghost Town <TSP> non winning work Ghost Town
+When you say the edition of the game, are you talking about <e> or <e>? <TSP> Agent X II <TSP> Agent X in the Brain Drain Caper
+Do you mean <e> or <e>, when you ask the city that the team represent? <TSP> employer Cardiff City <TSP> agent Cardiff City
+Which one do you mean, <e> or <e>, when you say the municipality? <TSP> the county located in the U.S. state of Florida <TSP> the county in the U.S. state of Oregon
+When you say the video, are you talking about <e> or <e>? <TSP> film Concussion <TSP> series episode Concussion
+Do you mean <e> or <e>, when you ask the name of the fictional universe in which the fictional character appears? <TSP> comic book character Devastator <TSP> game character Devastator
+When you say the star of the tv program, are you referring to <e> or <e>? <TSP> nominated work FM <TSP> non nominated work FM
+When you say the name of the group of islands, are you talking about <e> or <e>? <TSP> the rugged, Y-shaped island in Graham Land, Antarctica <TSP> the uninhabited island in  Canada
+Which one do you mean, <e> or <e>, when you say his kid’s name? <TSP> the parent of Alan Stanford <TSP>  music singer Anne Kirkpatrick
+When you say the water body that surrounds the island, are you talking about <e> or <e>? <TSP> the local administrative division of the Indian district of Nicobar <TSP> the northernmost of the Nicobar Islands
+Do you mean <e> or <e>, when you ask the postcode of the place? <TSP> Lagrange in  Indiana, United States <TSP> Lagrange in Lorain County, Ohio, United States
+Are you referring to <e> or <e>, when you say the video? <TSP> series episode Home on the Range <TSP> film Home on the Range
+When you say the place of origin of the person, are you referring to <e> or <e>? <TSP> Australian tennis coach Bob Brett <TSP> Australian Tennis Player Bob Brett
+Do you mean <e> or <e>, when you ask the name of the fictional universe in which the fictional character appears? <TSP> Leon created by Tyrell corporation <TSP> game character Leon created by by Capcom.
+When you say the name of the group of islands, are you talking about <e> or <e>? <TSP> uninhabited Canadian arctic island <TSP> Clark Island in the San Juan Islands of the U.S. state of Washington
+Are you talking about <e> or <e>, when you say the album that consists of i need your love? <TSP> non nominated work I Need Your Love <TSP> nominated work I Need Your Love
+When you say string quartet no. 10’s musical scale, are you referring to <e> or <e>? <TSP> String Quartet No. 10 composed in 1964 <TSP> String Quartet No. 10 published in 1809
+Are you referring to <e> or <e>, when you say the religion followed by the person? <TSP> John McCarthy QC <TSP> John Henry McCarthy
+Are you talking about <e> or <e>, when you say the mpaa rating of the contenders? <TSP> non nominated work The Contenders <TSP> nominated work The Contenders
+Are you talking about <e> or <e>, when you ask the movies that christian ambrose has been in? <TSP> actor Christian Ambrose in Roundabout American <TSP> actor Christian Ambrose in Half Time and Down
+Are you talking about <e> or <e>, when you say the location of the entity? <TSP> Turtle Bay in Miramar <TSP> Turtle Bay located near Honolulu
+Which one do you mean, <e> or <e>, when you ask the date of copyright? <TSP> nominated work Countrified <TSP> non nominated work Countrified
+Are you referring to <e> or <e>, when you say the director of landscape of the body? <TSP> nominated work Landscape of the Body <TSP> winning work Landscape of the Body
+Are you referring to <e> or <e>, when you say the architectural style of eagle's nest? <TSP> Eagle's Nest in Bridgeport, Connecticu <TSP> Eagle's Nest located near Ambar, King George County, Virginia
+Do you mean <e> or <e>, when you ask the zodiac sign of this person? <TSP> comedy content creator Sean Williams <TSP> professor Sean Williams
+Are you talking about <e> or <e>, when you say the class of the organism? <TSP> Asian elephant Ruby <TSP> parrot Ruby
+Are you referring to <e> or <e>, when you say the kind of building the educational institute holy family academy is? <TSP> the educational institution located in Angeles City, Philippines <TSP> Holy Family Academy located in Manchester, NH
+Which one do you mean, <e> or <e>, when you say Notre Dame High School? <TSP> Notre Dame High School in Chicago, Illinois <TSP> Notre Dame High School in Chattanooga
+Are you referring to <e> or <e>, when you say the director of three sisters? <TSP> winning work Three Sisters <TSP> non winning work Three Sisters
+Are you referring to <e> or <e>, when you say the religion followed by the person? <TSP> Mother Ignacia <TSP> teacher Venerable
+Which one do you mean, <e> or <e>, when you say the sequence of mountains? <TSP> Qayqu with 17,136 ft <TSP> Qayqu with 16,732 ft
+Are you talking about <e> or <e>, when you say the language used in the tv program? <TSP> Israeli television drama In Treatment <TSP> Italian TV series In Treatment
+Are you referring to <e> or <e>, when you say the director of the rothschilds? <TSP> non winning work The Rothschilds <TSP> winning work The Rothschilds
+Which one do you mean,<e> or <e>, when you say the kind of book? <TSP> non nominated work Hard Evidence <TSP> nominated work Hard Evidence
+Are you talking about <e> or <e>, when you say the author of better days? <TSP> song Better Days recorded by the Goo Goo Dolls <TSP> song Better Days by the American music group Citizen King
+When you say the builders of the ship hms usk, are you referring to <e> or <e>? <TSP> British U class submarine HMS Usk <TSP> Yarrow type River Class destroyer HMS Usk
+Do you mean <e> or <e>, when you ask the inflow sources for the river? <TSP> lake Kirchsee in the north German state of Schleswig-Holstein <TSP> lake Kirchsee in Upper Bavaria
+Which one do you mean, <e> or <e>, when you say country of origin? <TSP> the former American football wide receiver <TSP> the former Major League Baseball player 
+Do you mean <e> or <e>, when you ask the languages used in the tv program? <TSP> nominated work The Block <TSP> non nominated work The Block
+Which one do you mean, <e> or <e>, when you say the location of the grave? <TSP> actor Bobby Day <TSP> singer Bobby Day
+Which one do you mean, <e> or <e>, when you say the producer? <TSP> nominated work The Firefly <TSP> non nominated work The Firefly
+Which one do you mean, <e> or <e>, when you ask the directors for come back, little sheba? <TSP> winning work Come Back, Little Sheba <TSP> non winning work Come Back, Little Sheba
+Which one do you mean, <e> or <e>, when you say the city close by? <TSP> Clear Lake located northeast of Stillwater, New York <TSP> Clear Lake in Lake County in the U.S. state of California
+Do you mean <e> or <e>, when you ask the city nearby? <TSP> Gull Lake located southeast of McKeever, New York <TSP> Gull Lake in the U.S. state of Minnesota
+When you say the sport indiana state sycamores, are you talking about <e> or <e>? <TSP> the Indiana State Sycamores basketball team <TSP> the Indiana State Sycamores football team
+Which one do you mean, <e> or <e>, when you say the motherland? <TSP> politician István Pásztor <TSP> cinematographer István Pásztor
+Are you referring to <e> or <e>, when you ask the playing arena? <TSP> the Morehead State Eagles women's basketball team <TSP> the Morehead State Eagles football program
+Which one do you mean, <e> or <e>, when you say Other Voices, Other Rooms? <TSP> nominated work Other Voices, Other Rooms <TSP> non nominated work Other Voices, Other Rooms
+Do you mean <e> or <e>, when you say the language? <TSP> Flicker by Theodore Roszak <TSP> Flicker by Andrew David Doyle
+Which book are you talking about, <e> or <e>, when you say the originating place of this book? <TSP> Image by Mel Odom <TSP> Irish lifestyle and fashion magazine Image
+Are you referring to <e> or <e> when you say the term basin countries? <TSP> Sabana River in Texas <TSP> the river of Puerto Rico
+When the structural style for townsend house, are you referring to <e> or <e>? <TSP> Townsend House located at 410 North Bonner Street <TSP> the Cosmos Club's headquarters
+Which one do you mean, <e> or <e>, when you say the program producer? <TSP> non nominated work Daniela <TSP> nominated work Daniela
+Are you talking about <e> or <e>, when you say one of the seasons of the tv program? <TSP> non winning work Undressed <TSP> winning work Undressed
+Are you referring to <e> or <e>, when you say the management that has the scope reading? <TSP> the county seat of Berks County <TSP> the large, historically important minster town in Berkshire, England
+Which one do you mean, <e> or <e>, when you say country of origin? <TSP> American investor Henry Jackson <TSP> American pioneer Henry Jackson
+Which one do you mean, <e> or <e>, when you ask the directors for 42nd street? <TSP> 42nd Street by Michael Stewart and Mark Bramble <TSP> 42nd Street by Michael Stewart and Mark Bramble
+Which one do you mean, <e> or <e>, when you say the book title? <TSP> Titania in William Shakespeare's play <TSP> Titania in DC Comics
+Which one do you mean, <e> or <e>, when you say art producer? <TSP> non nominated work Transmission <TSP> Nominated work Transmission
+Do you mean <e> or <e>, when you ask the category of the organism? <TSP> Pekinese dog Jimmy <TSP> actor Jimmy
+Are you talking about <e> or <e>, when you say the position of the player on the team? <TSP> Spanish footballer Agustín <TSP> goalkeeper Agustín
+Which one do you mean, <e> or <e>, when you say native country? <TSP> American lawyer Morgan Lewis <TSP> American professional basketball player Morgan Lewis
+When you say the album former to this album, are you referring to <e> or <e>? <TSP> soundtrack Swing <TSP> the fifteenth studio album Swing
+Which one do you mean,  <e> or <e>, when you say the area code? <TSP> Adenau in Germany <TSP> Verbandsgemeinde Adenau
+Do you mean <e> or <e>, when you say the sport for florida state seminoles? <TSP> the Florida State Seminoles football team <TSP> the Florida State Seminoles men's basketball team
+Do you mean <e> or <e>, when you ask the album prior to this album? <TSP> Menudo's eighth Spanish album Xanadu <TSP> soundtrack Xanadu
+Which one do you mean, <e> or <e>, when you say St. John's School? <TSP> St. John's School located in Vancouver <TSP> St. John's School in United States
+When you say the position of the athlete, are you talking about <e> or <e>? <TSP> a former gridiron football wide receiver <TSP> an American football defensive end Jason Jones
+Which one do you mean, <e> or <e>, when you say the artist? <TSP> Nancy from the graphic novel series Sin City <TSP> character Nancy in the novel Oliver Twist
+Are you talking about <e> or <e>, when you say the sport windsor royals? <TSP> Windsor baseball club <TSP> defunct Canadian Junior ice hockey club
+Which one do you mean, <e> or <e>, when you say the tinge? <TSP> Woodstock School located in Landour <TSP> Woodstock School located in Murray, UT
+Are you referring to <e> or <e>, when you say the rating of the film the family? <TSP> non nominated work The Family <TSP> nominated work The Family
+Which one do you mean, <e> or <e>, when you say country of origin? <TSP> actor Eckart Witzigmann <TSP> chef Eckart Witzigmann
+Which one do you mean, <e> or <e>, when you say the giver? <TSP> nominated work The Johnstown Flood <TSP> non nominated work The Johnstown Flood
+Which one do you mean, <e> or <e>, when you say the name of the spin off? <TSP> The Cartoon Adventures of Teen Wolf in the United Kingdom <TSP> nominated work Teen Wolf
+When you say the major of this person, do you mean of <e> or of <e>? <TSP> professor John Todd <TSP> author John Todd
+Are you talking to <e> or <e>, when you say what the butler saw’s director? <TSP> winning work What The Butler Saw <TSP> nominated work What The Butler Saw
+When you say the directors of agamemnon, are you talking about <e> or <e>? <TSP> winning work Agamemnon <TSP> non winning work Agamemnon
+Do you mean <e> or <e>, when you ask the list of movies written by the person? <TSP> director Michael Kirk <TSP> actor Michael Kirk
+Which one do you mean, <e> or <e>, when you say the movie after? <TSP> nominated work The King <TSP> non nominated work The King
+Which one do you mean, <e> or <e>, when you say the picture directed? <TSP> actor William R. Kowalchuk <TSP> producer William R. Kowalchuk
+Which one do you mean, <e> or <e>, when you ask the directors for children of eden? <TSP> non winning work Children of Eden <TSP> winning work Children of Eden
+Which one do you mean, <e> or <e>, when you say the creator? <TSP> Old Timey Dimension <TSP> a former headmaster of Hogwarts
+Which one do you mean, <e> or <e>, when you say the creative painter? <TSP> The Professor from the television series Gilligan's Island <TSP> The Professor in Marvel Comics
+When you say the place of origination of this person, are you referring to <e> or <e>? <TSP>  Funk and R&B group Ozone <TSP> Moldovan pop music trio Ozone
+Do you mean <e> or <e>, when you ask where this person originates? <TSP> thrash metal band Justice <TSP> philosophical theory Justice
+When you say the school district of freeman high school, are you referring to <e> or <e>? <TSP> Freeman High School located in the western part of Virginia's Henrico County <TSP> Freeman High School in Rockford, Washington
+Do you mean <e> or <e>, when you ask the next album after the album? <TSP> the sixth solo album Home Again <TSP> the third studio album Home Again
+Do you mean <e> or <e>, when you ask the creator of sentry? <TSP> Curtis Elkins <TSP> character Sentry in the Marvel Comics Universe
+Which one do you mean, <e> or <e>, when you say country of origin? <TSP> Danish racing driver Tom Kristensen <TSP> Danish poet Tom Kristensen
+When you say the sport mobile revelers, are you talking about <e> or <e>? <TSP> National Basketball Development League (NBDL) team Mobile Revelers <TSP> American soccer team Mobile Revelers
+Which one do you mean, <e> or <e>, when you say the person responsible for music? <TSP> nominated work Citizen X <TSP> non nominated work Citizen X
+Which one do you mean, <e> or <e>, when you say the motherland? <TSP> Ana María González known for performing at the Teatro Colón <TSP> actress Ana María González
+Are you referring to <e> or <e>, when you ask the religion for st. peters church? <TSP> St. Peters Church in St Peter's Road, Birkdale, Southport, Sefton, Merseyside, England <TSP> St. Peters Church in Sunderland, Tyne and Wear, England
+Do you mean <e> or <e> when you say the program creator? <TSP> non winning work Hard Copy <TSP> winning work Hard Copy
+Which one do you mean, <e> or <e>, when you say the in charge of music? <TSP> winning work The Horde <TSP> non winning work The Horde
+When you say the owner of the spectator, are you referring to <e> or <e>? <TSP> daily publication The Spectator <TSP> biweekly high school newspaper The Spectator
+Which one do you mean, <e> or <e>, when you say the arena? <TSP> Springfield Cardinals in Springfield, Missouri <TSP> Springfield Cardinals in Springfield, Illinois
+When you say the site of outflow of the lake, are you referring to <e> or <e>? <TSP> Lake of Bays in Central Ontario, Canada <TSP> Lake of Bays in Northwestern Ontario, Canada
+Which one do you mean, <e> or <e>, when you say the art manager? <TSP> non nominated work My Blue Heaven <TSP> nominated work My Blue Heaven
+When you say the sort of content, are you referring to <e> or <e>? <TSP> nominated work Illumination <TSP> non nominated work Illumination
+Do you mean <e> or <e>, when you ask the mouth of the river? <TSP> Coldwater River in Northeastern Ontario, Canada <TSP> Coldwater River in south central British Columbia, Canada
+When you say the names of the movies written by the person, are you talking about <e> or <e>? <TSP> male water polo player Noah Miller <TSP> actor Noah Miller
+When you say the conference linked to georgia southern eagles, are you referring to <e> or <e>? <TSP> the Georgia Southern Eagles men's basketball team <TSP> the Georgia Southern Eagles women's basketball team
+When you say the position of the athlete on the team, are you referring to <e> or <e>? <TSP> Swedish footballer Johan Larsson <TSP> player Johan Larsson
+Are you talking about <e> or <e>, when you ask taşköprü's locations? <TSP> the Stone Bridge <TSP> Roman bridge Taşköprü
+Are you referring to <e> or <e>, when you say the film that stars diane peterson? <TSP> actor Diane Peterson <TSP> actress Diane Peterson
+Are you talking about <e> or <e>, when you say the kind of person this is? <TSP> Producer Jaytech <TSP> non Producer Jaytech
+Are you talking about <e> or <e>, when you say the sport cangrejeros de santurce? <TSP> professional baseball team Santurce <TSP> professional basketball team Cangrejeros de Santurce
+Are you referring to <e> or <e>, when you say the place of birth? <TSP> founder Craig Dobbin <TSP> film score composer Craig Dobbin
+Do you mean <e> or <e>, when you say the mountain chain? <TSP> mountain Qalsata about 4,860 metres high <TSP> mountain Qalsata about 5,874 m (19,272 ft) high
+When you say the death of the person, are you referring to <e> or <e>? <TSP> actor Ray Williams <TSP> Welsh international rugby union wing Ray Williams
+Which one do you mean, <e> or <e>, when you say country of origin? <TSP> politician Noah Davis <TSP> actor Noah Davis
+When you say the zodiac sign, are you referring to <e> or <e>? <TSP> director John Abraham <TSP> football player John Abraham
+When you say the district of the school lamar elementary school, are you referring to <e> or <e>? <TSP> Lamar Elementary School in Oakton <TSP> Lamar Elementary School in Augusta, GA
+Which one do you mean, <e> or <e>, when you say the picture directed? <TSP> director Chris Robinson <TSP> producer Chris Robinson
+Which one do you mean, <e> or <e>, when you ask the directors for shockheaded peter? <TSP> non winning work Shockheaded Peter <TSP> winning work Shockheaded Peter
+Are you referring to <e> or <e>, when you say the name of the supervisor? <TSP> German chemist Paul Friedländer <TSP> author Paul Friedländer
+Are you referring to <e> or <e>, when you say the album succeeding this album? <TSP> nominated work In Utero, in Tribute, in Entirety <TSP> non nominated work In Utero, in Tribute, in Entirety
+Do you mean <e> or <e>, when you ask the next album after the album? <TSP> nominated work Famous Last Words <TSP> non nominated work Famous Last Words
+Are you talking about <e> or <e>, when you say the person who influenced this person? <TSP> composer Tom Scott <TSP> actor Tom Scott
+Which one do you mean, <e> or <e>, when you say the motherland? <TSP> English first-class cricketer Dan Hodgson <TSP> Canadian former professional ice hockey player Dan Hodgson
+Which one do you mean, <e> or <e>, when you say the postal code? <TSP> Avalanche Lake located in Glacier National Park, in the U. S. state of Montana <TSP> Avalanche Lake in New York
+Are you talking about <e> or <e>, when you say the location at which the movie was shot? <TSP> nominated work The Price of Sugar <TSP> non nominated work The Price of Sugar
+Do you mean <e> or <e>, when you say the sport for santa marta? <TSP> football team Santa Marta <TSP> baseball team Santa Marta
+Are you referring to <e> or <e>, when you say the highest level of education taught in this school? <TSP> Sumter County Adult Center in Sumterville, FL <TSP> Sumter County Adult Center in Sumterville
+Are you talking about <e> or <e>, when you say the sport buffalo bulls? <TSP> the Buffalo Bulls baseball team <TSP> the Buffalo Bulls men's basketball team
+Are you talking to <e> or <e>, when you say hello and goodbye’s director? <TSP> non winning work Hello and Goodbye <TSP> winning work Hello and Goodbye
+Are you referring to <e> or <e>, when you say the writer of maps? <TSP> musical game song Maps by Yeah Yeah Yeahs <TSP> Maps by American pop rock band Maroon 5
+When you say the name of the sport louisiana–monroe warhawks, are you referring to <e> or <e>? <TSP> the Louisiana–Monroe Warhawks baseball team <TSP> the Louisiana–Monroe Warhawks softball team
+Which one do you mean, <e> or <e>, when you ask the directors for dance of death? <TSP> non winning work Dance of Death <TSP> winning work Dance of Death
+Do you mean <e> or <e>, when you ask the highest education level taught in the school? <TSP> St Columbkille School in Dubuque <TSP> St Columbkille School in Papillion
+Are you talking about <e> or <e>, when you say the class of the organism? <TSP> actor Buck <TSP> Siberian Husky dog Buck
+Are you referring to <e> or <e>, when you say the album succeeding this album? <TSP> non nominated work True Romance <TSP> nominated work True Romance
+When you say the owner of the phoenix, are you talking about <e> or <e>? <TSP> organization The Phoenix <TSP> Irish political and current affairs magazine The Phoenix
+Which one do you mean, <e> or <e>, when you say the hiring director? <TSP> nominated work The Door <TSP> non nominated work The Door
+Do you mean <e> or <e>, when you ask the player's position on the team? <TSP> Scottish professional football winger Andy Love <TSP> English former professional footballer Andy Love
+Which one do you mean, <e> or <e>, when you ask the directors for volpone? <TSP> winning work Volpone <TSP> non winning work Volpone
+Are you talking about <e> or <e>, when you say the architectural styles for st. michael & all angels church? <TSP> St. Michael & All Angels Church in Bedford Park, Chiswick <TSP> St. Michael & All Angels Church in the diocese of Chester
+Are you talking about the person <e> or <e>, when you say the zodiac sign? <TSP> businessman Daniel Levy <TSP> writer Daniel Levy
+Which one do you mean, <e> or <e>, when you say the donor? <TSP> nominated work Deep Waters <TSP> non nominated work Deep Waters
+Are you referring to <e> or <e>, when ou say the architect for the building st. chad's church? <TSP> St. Chad's Church in the Diocese of Blackburn and the archdeaconry of Lancaster <TSP> building St. Chad's Church in England
+Are you talking about <e> or <e>, when you say the type of species? <TSP> tv character Eve <TSP> film character Eve
+Do you mean <e> or <e>, when you ask partially contained by this place? <TSP> Bonghwasan in western South Korea <TSP> mountain Bonghwasan in South Korea
+Which one do you mean, <e> or <e>, when you say the motherland? <TSP> tennis player Adrián García <TSP> actor Adrián García
+Are you talking about <e> or <e>, when you say the school district for bowie high school? <TSP> Bowie High School in the Bowie ISD <TSP> Bowie High School in El Paso
+Which one do you mean, <e> or <e>, when you say the program designer? <TSP> non nominated work The Inbetweeners <TSP> nominated work The Inbetweeners
+When you ask the venue at which the movie was shot, are you referring to <e> or <e>? <TSP> tv program All in the Game <TSP> film All in the Game
+When you say the films that beverly warren has been in ,are you referring to <e> or <e>? <TSP> actress Beverly Warren <TSP> vice president of Virginia Commonwealth University Beverly Warren
+Are you referring to <e> or <e>, when you say the film editor? <TSP> nominated work Libera me <TSP> non nominated work Libera me
+Are you referring to <e> or <e>, when you say the film editor? <TSP> non nominated work Stolen Kisses <TSP> nominated work Stolen Kisses
+When you say the kind of ride innoventions is, are you referring to <e> or <e>? <TSP> Innoventions in Walt Disney World, Florida <TSP> Innoventions in Anaheim, California
+When you say the place at which the death of ralph johnstone took place, are you referring to <e> or <e>? <TSP> politician Ralph Johnstone <TSP> deceased person Ralph Johnstone
+Do you mean <e> or <e>, when you ask the next album after the album? <TSP> non nominated work Ultra <TSP> nominated work Ultra
+Are you talking to <e> or <e>, when you say in the blood’s director? <TSP> nominated work In the Blood <TSP> winning work In the Blood
+Do you mean <e> or <e>, when you ask what the person is famous for? <TSP> non producer James Burke <TSP> producer James Burke
+When you say semi-contained by this place, are you referring to <e> or <e>? <TSP> the capital and largest city of Jamaica kingston in Kitsap County, Washington, United States <TSP> kingston
+Are you referring to <e> or <e>, when ou say the architect for the building graham county courthouse? <TSP> building Graham County Courthouse located at 800 Main St. in Safford, Arizona <TSP> Graham County Courthouse designed by Barber and McMurry of Knoxville, Tennessee
+Do you mean <e> or <e>, when you ask the category of the organism? <TSP> coast redwood Hyperion <TSP> British-bred Thoroughbred Hyperion
+Is it <e> or <e> you are talking about when you say the originating country? <TSP> Ruda in the Dalmatian Zagora region of Croatia <TSP>the left tributary of the Suceava River
+Which one do you mean, <e> or <e>, when you say the modifications? <TSP> nominated work Beau Geste <TSP> non nominated work Beau Geste
+Which one do you mean, <e> or <e>, when you ask the directors for les misérables? <TSP> non winning work Les Misérables <TSP> winning work Les Misérables
+When you say the contractors of weston centre, are you referring to <e> or <e>? <TSP> 32-story modern-styled skyscraper Weston Centre <TSP> eighteen story building Weston Centre
+When you say the name of the sport penn state nittany lions, are you referring to <e> or <e>? <TSP> the Penn State Nittany Lions wrestling team <TSP> the Penn State Nittany Lions baseball team
+Which one do you mean, <e> or <e>, when you say the art supervisor? <TSP> nominated work The Black Rose <TSP> non nominated work The Black Rose
+When you say the movie director, are you talking about <e> or <e>? <TSP> non nominated work Van Gogh <TSP> nominated work Van Gogh
+When you say the album which exist after this album, are you referring to <e> or <e>? <TSP> song Primitive <TSP> the sixteenth studio album Primitive by Neil Diamond
+When you say the site of outflow of the lake, are you referring to <e> or <e>? <TSP> lake Cedar Lake in Le Flore County <TSP> lake Cedar Lake in the Nelson River
+Do you mean <e> or <e>, when you say the place of burial located? <TSP> king Anthony <TSP> author Anthony
+Are you talking about <e> or <e>, when you say the school district of portsmouth west high school? <TSP> Portsmouth West High School in West Portsmouth <TSP> Portsmouth West High School in Pond Run
+Are you talking about <e> or <e>, when you say the language used in the track funny face? <TSP> nominated work Funny Face <TSP> non nominated work Funny Face
+When you say the addresses of bridge of the americas, are you talking about <e> or <e>? <TSP> the group of international bridges <TSP> the road bridge in Panama
+Which one do you mean, <e> or <e>, when you say the exclusive power? <TSP> humanoid destroyer Tempus <TSP> character destroyer Tempus in the Sacred Band of Thebes fictional universe
+Do you mean <e> or <e>, when you ask the ranking of the genre of the film? <TSP> nominated work Lady of the House <TSP> non nominated work Lady of the House
+Are you talking about <e> or <e>, when you say the architectural design of clinton downtown historic district? <TSP> Clinton Downtown Historic District located at Clinton, Vermillion County, Indiana <TSP> Clinton Downtown Historic District located in the village of Clinton
+When you say the album which exist after this album, are you referring to <e> or <e>? <TSP> non nominated work The Key <TSP> nominated work The Key
+Are you talking about <e> or <e>, when you say the writer of the lyrics of love story? <TSP> nominated work Love Story <TSP> non nominated work Love Story
+Are you talking about the school <e> or the school <e>, when you ask the category of school it is? <TSP> Christopher Elementary School in North City <TSP> Christopher Elementary School located in Chicago, IL
+Are you talking about <e> or <e>, when you say the album preceding this album? <TSP> Live at Wembley by the rock band Bad Company <TSP> Live at Wembley by British rock band Bring Me the Horizon
+Are you referring to <e> or <e>, when you say the main music of this film? <TSP> non winning work The Grinch <TSP> winning work The Grinch
+Are you talking to <e> or <e>, when you say jeffrey’s director? <TSP> non winning work Jeffrey <TSP> winning work Jeffrey
+Which one do you mean, <e> or <e>, when you say the supervisor of music? <TSP> non winning work Do or Die <TSP> winning work Do or Die
+Are you talking about the tv program <e> or the tv program <e> when you say the genre of the tv program? <TSP> actor Sam Delaney's News Thing <TSP> tv program Sam Delaney's News Thing
+Are you talking about the school <e> or <e>, when you say the highest grade taught in this school? <TSP> daycare center Foundation Academy <TSP> Ohio public charter school Foundation Academy
+Are you talking about <e> or <e>, when you say the architectural design of st. james the greater? <TSP> the Church of St. James the Greater <TSP> the Proto-Cathedral of St. James the Greater<SMP> I mean the Proto-Cathedral of St. James the Greater. <S> 1 <PREDICATE> mso/architecture.structure.style <ID1> 44b913f4-f673-d271-44c2-7fc8890c29d8 <ID2> 0c1db841-72fe-3275-1a49-5e49b7ba29ca <ANSWER> "Gothic Revival architecture"^^mso:text@en
+When you say the water body that london bridge crosses, are you referring to <e> or <e>? <TSP> London Bridge in Lake Havasu <TSP> London Bridge in central London
+When you say the rating of the film victim of beauty, are you referring to <e> or <e>? <TSP> nominated work Victim of Beauty <TSP> non nominated work Victim of Beauty
+Do you mean <e> or <e>, when you ask a short review? <TSP> Fields of Fire by Linda Hudson-Smith <TSP> Fields of Fire by James Webb
+Are you referring to <e> or <e>, when you say the governmental organization which manages immaculate conception church? <TSP> historic Catholic parish Immaculate Conception Church <TSP> historic Roman Catholic church Immaculate Conception Church
+Are you referring to <e> or <e>, when you say the director of the audience? <TSP> winning work The Audience <TSP> non winning work The Audience
+Which one do you mean, <e> or <e>, when you say the specimen? <TSP> Lilith from Marvel Comics <TSP> a demon in the TV series Supernatural
+Which one do you mean, <e> or <e>, when you say art producer? <TSP> nominated work A Mother's Prayer <TSP> Non nominated work A Mother's Prayer
+Are you talking about <e> or <e>, when you say the kind of government? <TSP> a province (crownland) of the Habsburg Monarchy from 1718 to 1739 <TSP> a medieval Serbian state that existed from 1217 to 1346
+Do you mean <e> or <e>, when you ask the player's position on the team? <TSP> Czech football manager Radim Nečas <TSP> footballer Radim Nečas
+When you say the builders of the ship hms avenger, are you referring to <e> or <e>? <TSP> a Type 21 frigate of the Royal Navy <TSP> a Royal Navy escort aircraft carrier during the Second World War
+Are you referring to <e> or <e>, when you say the director of awake and sing!? <TSP> nominated work Awake and Sing! <TSP> non nominated work Awake and Sing!
+When you say one of the seasons of the tv program, are you referring to <e> or <e>? <TSP> a English version of Rechov Sumsum  <TSP> an anglicized variation of Rechov SumSum
+Which one do you mean, <e> or <e>, when you say the? <TSP> nominated work Lifted <TSP> non nominated work Lifted
+Which one do you mean, <e> or <e>, when you say the same alias? <TSP> lunar impact crater Harvey <TSP> county Harvey

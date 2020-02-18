@@ -2,6 +2,7 @@
 import pandas as pd
 from collections import Counter
 from tflearn.data_utils import pad_sequences
+import argparse
 import random
 import numpy as np
 import h5py
@@ -9,6 +10,23 @@ import pickle
 import codecs
 import json
 print("import package successful...")
+parser = argparse.ArgumentParser()
+parser.add_argument("-v", "--data_path")
+parser.add_argument("-v", "--task", choices=["task1","task3.1","task3.2"]) # task1, task3
+args = parser.parse_args()
+if args.task == "task3.1":
+    train_file = "train_sml.txt"
+    dev_file = "dev_sml.txt"
+    test_file = "test_sml.txt"
+elif arg.task == "task3.2":
+    train_file = "train_sml_classifie.txt"
+    dev_file = "dev_sml_classifie.txt"
+    test_file = "test_sml_classifie.txt"
+else:
+    train_file = "train_classifier.txt"
+    dev_file = "dev_classifier.txt"
+    test_file = "test_classifier.txt"
+    
 
 def read_word(path):
     sr = codecs.open(path, "r", "utf-8")
@@ -84,12 +102,12 @@ def read_file(path):
     return inputs, targets
 
 
-base_path='data/new_data/multi-turn-with-clarification-predicate/'
+base_path=args.data_path + "/"
 
 
-trainx, trainy=read_file(base_path + "train_sml.txt")
-validx, validy=read_file(base_path + "dev_sml.txt")
-testx, testy=read_file(base_path + "test_sml.txt")
+trainx, trainy=read_file(base_path + train_file)
+validx, validy=read_file(base_path + dev_file)
+testx, testy=read_file(base_path + test_file)
 
 
 print(len(trainx))
@@ -102,7 +120,7 @@ print(len(testx))
 #lines_wv = word_embedding_object.readlines()
 #word_embedding_object.close()
 char_list = []
-types = read_word(base_path + "train_sml.txt")
+types = read_word(base_path + train_file)
 char_list.extend(['PAD', 'UNK', 'CLS', 'SEP', 'unused1', 'unused2', 'unused3', 'unused4', 'unused5'])
 char_list.extend(types)
 PAD_ID = 0
