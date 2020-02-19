@@ -80,7 +80,7 @@ python3 train.py -data ../../../data/multi-turn/task1/demo -save_model available
 ### Requirements
 * python 3.5.6
 * torchtext 0.4.0
-* torch 1.2.0
+* torch 1.0.1
 
 
 ### Preprocessing
@@ -93,7 +93,6 @@ python3 preprocess.py -train_src ../../../data/multi-turn/task2/src-train.txt -t
 ### Train
 ```
 python3 train.py -data ../../../data/multi-turn/task2/demo -save_model available_models/demo-model-transformer -gpu_ranks 0 -layers 1 -rnn_size 128 -word_vec_size 128 -transformer_ff 128 -heads 8  -encoder_type transformer -decoder_type transformer -position_encoding -dropout 0.1 -batch_size 16 -accum_count 2 -optim adam -adam_beta2 0.998 -decay_method noam -learning_rate 2 -max_grad_norm 0 -param_init 0  -param_init_glorot -label_smoothing 0.1 -valid_step 1000 -copy_attn
-
 ```
 
 ### Test
@@ -115,12 +114,13 @@ perl tools/multi-bleu.perl ../../../data/multi-turn/task2/tgt-test1.txt < final_
 * torch 1.2.0
 * h5py 2.8.0
 * tflearn 0.3.2
+* pytorch 1.0.1
 
 ### Baseline 1: CNN
 #### Preprocessing
 ```
 cd code/classification/preprocess_file
-python3 pre_process_predicate_classifier.py --data_path "../../../data/multi-turn/task3/" --task "task3.1" #Generate data for baseline CNN
+python3 pre_process_predicate_classifier.py --data_path ../../../data/multi-turn/task3/ --task task3.1 #Generate data for baseline CNN
 ```
 
 #### Train & Test
@@ -133,44 +133,42 @@ python3 p7_TextCNN_train.py --cache_file_h5py ../../../data/multi-turn/task3/dat
 #### Preprocessing
 ```
 cd code/classification/preprocess_file
-python3 pre_process_predicate_hir.py --data_pat "../../../data/multi-turn/task3/" --task "task3.1"  #Generate data for HAN and DMN
+python3 pre_process_hir_predicate.py --data_path ../../../data/multi-turn/task3/ --task task3.1  #Generate data for HAN and DMN
 ```
 
 #### Train & Test
 ```
 cd ../a05_HierarchicalAttentionNetwork/
-python3 p1_HierarchicalAttention_train.py --cache_file_h5py ../../../data/multi-turn/task3/hir_data.h5 --cache_file_pickle ../../../data/multi-turn/task3/hir_vocab_label.pik #HAN
+python3 p1_HierarchicalAttention_train.py --cache_file_h5py ../../../data/multi-turn/task3/hir_data.h5 --cache_file_pickle ../../../data/multi-turn/task3/hir_vocab_label.pik --num_classes 6 #HAN
 ```
 
 ### Baseline 3: DMN
 #### Preprocessing
 ```
 cd code/classification/preprocess_file
-python3 pre_process_predicate_hir.py "../../../data/multi-turn/task3/" --task "task3.1"  #Generate data for HAN and DMN
+python3 pre_process_predicate_hir.py --data_path ../../../data/multi-turn/task3/ --task task3.1  #Generate data for HAN and DMN
 ```
 
 #### Train & Test
 ```
 cd ../a09_DynamicMemoryNet/
-python3 a8_train.py --cache_file_h5py ../../../data/multi-turn/task3/hir_data.h5 --cache_file_pickle ../../../data/multi-turn/task3/hir_vocab_label.pik #HAN
+python3 a8_train.py --cache_file_h5py ../../../data/multi-turn/task3/hir_data.h5 --cache_file_pickle ../../../data/multi-turn/task3/hir_vocab_label.pik --num_classes 6 #DMN
 ```
-
 
 ### Baseline 4: Transformer
 #### Preprocessing
 ```
 cd code/classification/preprocess_file
-python generate_input_file.py --data_path "../../../data/multi-turn/task3/" --task "task3.1"
-cd ..
+python3 generate_input_file.py --data_path ../../../data/multi-turn/task3/ --task task3.1  #Generate data for transformer and rnn
+cd code/classification/sequence_model
 python3 preprocess.py -train_src ../../../data/multi-turn/task3/src-train.txt -train_tgt ../../../data/multi-turn/task3/tgt-train.txt -valid_src ../../../data/multi-turn/task3/src-test.txt -valid_tgt ../../../data/multi-turn/task3/tgt-test.txt -save_data ../../../data/multi-turn/task3/demo -dynamic_dict
-
 ```
 
 #### Train & Test
 ```
-python3 train.py -data ../../../data/multi-turn/task3/demo -save_model available_models/demo-model-transformer -gpu_ranks 0 -layers 1 -rnn_size 128 -word_vec_size 128 -transformer_ff 128 -heads 8  -encoder_type transformer -decoder_type transformer -position_encoding -dropout 0.1 -batch_size 8 -accum_count 2 -optim adam -adam_beta2 0.998 -decay_method noam -learning_rate 2 -max_grad_norm 0 -param_init 0  -param_init_glorot -label_smoothing 0.1 -valid_step 200
+cd code/classification/sequence_model
+python3 train.py -data ../../../data/multi-turn/task3/demo -save_model available_models/demo-model-transformer -gpu_ranks 0 -layers 1 -rnn_size 128 -word_vec_size 128 -transformer_ff 128 -heads 8  -encoder_type transformer -decoder_type transformer -position_encoding -dropout 0.1 -batch_size 8 -accum_count 2 -optim adam -adam_beta2 0.998 -decay_method noam -learning_rate 2 -max_grad_norm 0 -param_init 0  -param_init_glorot -label_smoothing 0.1 -valid_step 200 > log_multi_transformer.txt
 ```
-
 
 ## Task 3.2: Clarification-based Question Answering -- Predicate Prediction
 

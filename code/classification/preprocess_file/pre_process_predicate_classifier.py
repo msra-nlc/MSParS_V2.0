@@ -129,7 +129,7 @@ UNK_ID = 1
 
 # write to vocab.txt under data/ieee_zhihu_cup
 vocab_path = base_path + 'vocab.txt'
-vocab_char_object = open(vocab_path, 'w')
+vocab_char_object = codecs.open(vocab_path, 'w', 'utf-8')
 
 word2index = {}
 for i, char in enumerate(char_list):
