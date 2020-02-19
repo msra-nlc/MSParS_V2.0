@@ -64,10 +64,6 @@ cd code/classification/preprocess_file
 python3 generate_input_file.py --data_path ../../../data/multi-turn/task1/ --task task1  #Generate data for transformer and rnn
 cd code/classification/sequence_model
 python3 preprocess.py -train_src ../../../data/multi-turn/task1/src-train.txt -train_tgt ../../../data/multi-turn/task1/tgt-train.txt -valid_src ../../../data/multi-turn/task1/src-test.txt -valid_tgt ../../../data/multi-turn/task1/tgt-test.txt -save_data ../../../data/multi-turn/task1/demo -dynamic_dict
-
-
-
-
 ```
 
 #### Train & Test
