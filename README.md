@@ -1,8 +1,10 @@
 # MSParS-V2.0
 
-Code for paper "Asking Clarification Questions in Knowledge-Based Question Answering"
+Code and dataset for paper "Asking Clarification Questions in Knowledge-Based Question Answering". We show the running commands by taking multi-turn case as an example. 
 
-Under Construction
+## Folder Description
+1. data. It contains the constructed dataset, which is split into two parts: single-turn data and multi-turn data. Each part contains the data of three tasks: task1--clarification identification, task2--clarification generation, task3--question answering.  
+2. code. The code folder includes two kinds of models: classification models and genertive models. Task1 and task3 share the same classification models while task2 uses generative models.
 
 ## Task 1: Clarification Identification
 
@@ -18,7 +20,7 @@ Under Construction
 #### Preprocessing
 ```
 cd code/classification/preprocess_file
-python3 pre_process_predicate_classifier.py --data_path "../../../data/multi-turn/task1/" --task "task1" #Generate data for baseline CNN
+python3 pre_process.py --data_path ../../../data/multi-turn/task1/ --task task1 #Generate data for baseline CNN
 ```
 
 #### Train & Test
@@ -31,7 +33,7 @@ python3 p7_TextCNN_train.py --cache_file_h5py ../../../data/multi-turn/task1/dat
 #### Preprocessing
 ```
 cd code/classification/preprocess_file
-python3 pre_process_predicate_hir.py --data_pat "../../../data/multi-turn/task1/" --task "task1"  #Generate data for HAN and DMN
+python3 pre_process_hir.py --data_pat ../../../data/multi-turn/task1/ --task task1  #Generate data for HAN and DMN
 ```
 
 #### Train & Test
@@ -110,6 +112,7 @@ perl tools/multi-bleu.perl ../../../data/multi-turn/task2/tgt-test1.txt < final_
 * torchtext 0.4.0
 * torch 1.2.0
 * h5py 2.8.0
+* tflearn 0.3.2
 
 ### Baseline 1: CNN
 #### Preprocessing

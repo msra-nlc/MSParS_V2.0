@@ -2,7 +2,6 @@
 import pandas as pd
 from collections import Counter
 from tflearn.data_utils import pad_sequences
-import argparse
 import random
 import numpy as np
 import h5py
@@ -10,31 +9,20 @@ import pickle
 import codecs
 import json
 print("import package successful...")
-parser = argparse.ArgumentParser()
-parser.add_argument("--data_path")
-parser.add_argument("--task", choices=["task1","task3.1","task3.2"]) # task1, task3
-args = parser.parse_args()
-if args.task == "task3.1":
-    train_file = "train_sml.txt"
-    dev_file = "dev_sml.txt"
-    test_file = "test_sml.txt"
-elif args.task == "task3.2":
-    train_file = "train_sml_classifie.txt"
-    dev_file = "dev_sml_classifie.txt"
-    test_file = "test_sml_classifie.txt"
-else:
-    train_file = "train_classifier.txt"
-    dev_file = "dev_classifier.txt"
-    test_file = "test_classifier.txt"
-    
 
 def read_word(path):
     sr = codecs.open(path, "r", "utf-8")
     lines = sr.readlines()
     word_fre = {}
     for line in lines:
-        line = json.loads(line)
-        items = " <SP> ".join([line["context"],line["entity1"],line["entity2"]]) 
+        items = json.loads(line)
+        context = items["context"]
+        entity = items["entity"]
+        target = items["target"]
+        overlap = items["overlap"]
+        #sw_tgt.write(target+"\n")
+        #sw_src.write(" <SP> ".join([overlap, context, entity]))
+        items = " SEP ".join([overlap, context, entity])
         
         #label = items[1].strip()
         #input_ = items[0].strip().replace("<S>", "SEP")
@@ -42,6 +30,7 @@ def read_word(path):
         #label = int(label)
         words = items.split(" ")
         for word in words:
+          if word not in ['PAD', 'UNK', 'CLS', 'SEP', 'unused1', 'unused2', 'unused3', 'unused4', 'unused5']:
             if word in word_fre:
                 word_fre[word] += 1
             else:
@@ -49,32 +38,7 @@ def read_word(path):
     print(len(word_fre))
     return [x[0] for x in sorted(word_fre.items(), key = lambda x: x[1])[::-1][:50000]]
 
-       
-def read_type(path):
-    types = {}
-
-    sr = codecs.open(path, "r", "utf-8")
-    lines = sr.readlines()
-    print(len(lines))
-    for line in lines:
-        line = json.loads(line)
-        items = line["entity1"]
-        entity1 = items.split(" <S> ")
-        label = entity1[1].strip().split(" ")
-        if label in types:
-            types[label] += 1
-        else:
-            types[label] = 1
-
-        entity2 = line["entity2"].split(" <S> ")
-        label = entity2[1].strip().split(" ")
-        if label in types:
-            types[label] += 1
-        else:
-            types[label] = 1
-        
-        
-    return types
+     
     
     
 def read_file(path):
@@ -82,33 +46,26 @@ def read_file(path):
     targets = []
     sr = codecs.open(path, "r", "utf-8")
     lines = sr.readlines()
-
     for line in lines:
-        line = json.loads(line)
+        items = json.loads(line)
+    
+        context = items["context"]
+        entity = items["entity"]
+        target = items["target"]
+        overlap = items["overlap"]
         
-        label = line["predicate"]
-        
-        line["candidate predicate"] = line["candidate predicate"].split(" <split> ")
-        for i in range(len(line["candidate predicate"])):
-            line["candidate predicate"][i] = " ".join(line["candidate predicate"][i][4:].split("."))
-            line["candidate predicate"][i] = line["candidate predicate"][i].replace("_"," ")
-        items = " <SP> ".join([line["context"]]+line["candidate predicate"]) #line["entity1"],line["entity2"], 
-          
-        input_ = items.strip().replace("<S>", "SEP")
-        label = int(label)
-        #print(label, input_)
+        input_ = " SEP ".join([overlap, context, entity]).replace("<S>", "SEP")
+        label = int(target)
         inputs.append(input_)
         targets.append(label)
     return inputs, targets
 
 
-base_path=args.data_path + "/"
-
-
-trainx, trainy=read_file(base_path + train_file)
-validx, validy=read_file(base_path + dev_file)
-testx, testy=read_file(base_path + test_file)
-
+# read source file as csv
+base_path='data/predicate/single-turn/'
+trainx, trainy=read_file(base_path + "train_sml_predicate.txt")
+validx, validy=read_file(base_path + "dev_sml_predicate.txt")
+testx, testy=read_file(base_path + "test_sml_predicate.txt")
 
 print(len(trainx))
 print(len(validx))
@@ -120,7 +77,7 @@ print(len(testx))
 #lines_wv = word_embedding_object.readlines()
 #word_embedding_object.close()
 char_list = []
-types = read_word(base_path + train_file)
+types = read_word(base_path + "train_sml_predicate.txt")
 char_list.extend(['PAD', 'UNK', 'CLS', 'SEP', 'unused1', 'unused2', 'unused3', 'unused4', 'unused5'])
 char_list.extend(types)
 PAD_ID = 0
@@ -136,12 +93,13 @@ for i, char in enumerate(char_list):
     if i < 10: print(i, char)
     word2index[char] = i
     vocab_char_object.write(char + "\n")
+print(len(word2index))
 vocab_char_object.close()
 print("vocabulary of word generated....")
 
 
 
-label_list=["0", "1"]
+label_list=["0", "1", "2", "3", "4", "5"]
 label2index={}
 label_target_object=open(base_path+'label_set.txt','w')
 for i, label_freq in enumerate(label_list):
@@ -218,8 +176,9 @@ def save_data(cache_file_h5py,cache_file_pickle,word2index,label2index,train_X,t
     f['test_X_len'] = test_X_len
     f['test_Y'] = test_Y
     f.close()
+    print(len(word2index))
     # save word2index, label2index
-    with open(cache_file_pickle, 'ab') as target_file:
+    with open(cache_file_pickle, 'wb') as target_file:
         pickle.dump((word2index,label2index), target_file)
 
 label_size=len(label2index)

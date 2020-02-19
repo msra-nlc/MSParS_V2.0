@@ -2,31 +2,13 @@
 import pandas as pd
 from collections import Counter
 from tflearn.data_utils import pad_sequences
-import argparse
 import random
 import numpy as np
 import h5py
 import pickle
-import codecs
 import json
+import codecs
 print("import package successful...")
-parser = argparse.ArgumentParser()
-parser.add_argument("--data_path")
-parser.add_argument("--task", choices=["task1","task3.1","task3.2"]) # task1, task3
-args = parser.parse_args()
-if args.task == "task3.1":
-    train_file = "train_sml.txt"
-    dev_file = "dev_sml.txt"
-    test_file = "test_sml.txt"
-elif args.task == "task3.2":
-    train_file = "train_sml_classifie.txt"
-    dev_file = "dev_sml_classifie.txt"
-    test_file = "test_sml_classifie.txt"
-else:
-    train_file = "train_classifier.txt"
-    dev_file = "dev_classifier.txt"
-    test_file = "test_classifier.txt"
-    
 
 def read_word(path):
     sr = codecs.open(path, "r", "utf-8")
@@ -34,6 +16,7 @@ def read_word(path):
     word_fre = {}
     for line in lines:
         line = json.loads(line)
+        
         items = " <SP> ".join([line["context"],line["entity1"],line["entity2"]]) 
         
         #label = items[1].strip()
@@ -75,40 +58,30 @@ def read_type(path):
         
         
     return types
-    
-    
+
 def read_file(path):
     inputs = []
     targets = []
     sr = codecs.open(path, "r", "utf-8")
     lines = sr.readlines()
-
     for line in lines:
         line = json.loads(line)
         
-        label = line["predicate"]
-        
-        line["candidate predicate"] = line["candidate predicate"].split(" <split> ")
-        for i in range(len(line["candidate predicate"])):
-            line["candidate predicate"][i] = " ".join(line["candidate predicate"][i][4:].split("."))
-            line["candidate predicate"][i] = line["candidate predicate"][i].replace("_"," ")
-        items = " <SP> ".join([line["context"]]+line["candidate predicate"]) #line["entity1"],line["entity2"], 
-          
+        items = " <SP> ".join([line["context"],line["entity1"],line["entity2"]]) 
+        label = line["user_response_answer"].strip()
         input_ = items.strip().replace("<S>", "SEP")
+        input_sentence = input_.split(" <SP> ")
         label = int(label)
-        #print(label, input_)
-        inputs.append(input_)
+        inputs.append(input_sentence)
         targets.append(label)
     return inputs, targets
 
 
-base_path=args.data_path + "/"
-
-
-trainx, trainy=read_file(base_path + train_file)
-validx, validy=read_file(base_path + dev_file)
-testx, testy=read_file(base_path + test_file)
-
+# read source file as csv
+base_path='data/multi-turn-with-clarification/'
+trainx, trainy=read_file(base_path + "train_sml_classifier.txt")
+validx, validy=read_file(base_path + "dev_sml_classifier.txt")
+testx, testy=read_file(base_path + "test_sml_classifier.txt")
 
 print(len(trainx))
 print(len(validx))
@@ -120,15 +93,16 @@ print(len(testx))
 #lines_wv = word_embedding_object.readlines()
 #word_embedding_object.close()
 char_list = []
-types = read_word(base_path + train_file)
+words = read_word(base_path + "/train_classifier.txt")
 char_list.extend(['PAD', 'UNK', 'CLS', 'SEP', 'unused1', 'unused2', 'unused3', 'unused4', 'unused5'])
-char_list.extend(types)
+print(len(words))
+print(words[0])
+char_list.extend(words)
 PAD_ID = 0
 UNK_ID = 1
 
-
 # write to vocab.txt under data/ieee_zhihu_cup
-vocab_path = base_path + 'vocab.txt'
+vocab_path = base_path + 'hir_vocab.txt'
 vocab_char_object = open(vocab_path, 'w')
 
 word2index = {}
@@ -189,10 +163,10 @@ def get_X_Y(train_data_x,train_data_y,label_size):
     train_data_x_tiny_test=train_data_x
     train_data_y_tiny_test=train_data_y
 
-    for index, row in enumerate(train_data_x_tiny_test):
+    for index, title_char in enumerate(train_data_x_tiny_test):
 
-        title_char=row.split(" ")
-        title_char_id_list=[get(x,word2index) for x in title_char if x.strip()]
+        #title_char=row.split(" ")
+        title_char_id_list=[[get(x,word2index) for x in row.split(" ") if x.strip()] for row in title_char]
         X.append(title_char_id_list)
 
 
@@ -222,38 +196,46 @@ def save_data(cache_file_h5py,cache_file_pickle,word2index,label2index,train_X,t
     with open(cache_file_pickle, 'ab') as target_file:
         pickle.dump((word2index,label2index), target_file)
 
+
+
 label_size=len(label2index)
-cache_path_h5py=base_path+'data.h51'
-cache_path_pickle=base_path+'vocab_label.pik'
-max_sentence_length=500
+cache_path_h5py=base_path+'hir_data.h5'
+cache_path_pickle=base_path+'hir_vocab_label.pik'
+max_sentence_length=100
 
 # step 1: get (X,y)
 X,train_Y=get_X_Y(trainx,trainy,label_size)
-train_X_len = [len(item)for item in X]
-X=np.array(X)
+train_X_len = [[len(x) for x in item] for item in X]
+train_X = [pad_sequences(item, maxlen=max_sentence_length, value=0.) for item in X]
+#train_X = [item + [for i in range(3-)] for item in X]pad_sequences(X, maxlen=3, value=[0. for i in range(100)])  # padding to max length
+#X=np.array(X)
 train_Y=np.array(train_Y)
 
 # pad and truncate to a max_sequence_length
-
-train_X = pad_sequences(X, maxlen=max_sentence_length, value=0.)  # padding to max length
+#train_X = pad_sequences(X, maxlen=max_sentence_length, value=0.)  # padding to max length
 
 X,valid_Y=get_X_Y(validx,validy,label_size)
-valid_X_len = [len(item)for item in X]
-X=np.array(X)
+valid_X_len = [[len(x) for x in item] for item in X]
+valid_X = [pad_sequences(item, maxlen=max_sentence_length, value=0.) for item in X]
+#valid_X = pad_sequences(X, maxlen=3, value=[0. for i in range(max_sentence_length)])  # padding to max length
 valid_Y=np.array(valid_Y)
 
 # pad and truncate to a max_sequence_length
-valid_X = pad_sequences(X, maxlen=max_sentence_length, value=0.)  # padding to max length
+#valid_X = pad_sequences(X, maxlen=max_sentence_length, value=0.)  # padding to max length
 
 X,test_Y=get_X_Y(testx,testy,label_size)
-test_X_len = [len(item)for item in X]
-X=np.array(X)
+test_X_len = [[len(x) for x in item] for item in X]
+test_X = [pad_sequences(item, maxlen=max_sentence_length, value=0.) for item in X]
+#test_X = pad_sequences(X, maxlen=3, value=[0. for i in range(max_sentence_length)])  # padding to max length
 test_Y=np.array(test_Y)
 # pad and truncate to a max_sequence_length
-test_X = pad_sequences(X, maxlen=max_sentence_length, value=0.)  # padding to max length
+#test_X = pad_sequences(X, maxlen=max_sentence_length, value=0.)  # padding to max length
 
 
-print("train_X:",train_X.shape,";train_Y:",len(train_Y),";vaild_X.shape:",valid_X.shape,";valid_Y:",len(valid_Y),";test_X:",test_X.shape,";test_Y:",len(test_Y))
+print("train_X:",len(train_X),";train_Y:",len(train_Y),";vaild_X.shape:",len(valid_X),";valid_Y:",len(valid_Y),";test_X:",len(test_X),";test_Y:",len(test_Y))
+print(train_X[0])
+print(train_Y[0])
+
 
 # step 3: save to file system
 save_data(cache_path_h5py,cache_path_pickle,word2index,label2index,train_X,train_X_len,train_Y,valid_X,valid_X_len,valid_Y,test_X,test_X_len,test_Y)
