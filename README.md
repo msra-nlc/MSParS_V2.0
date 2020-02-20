@@ -85,6 +85,7 @@ python3 train.py -data ../../../data/multi-turn/task1/demo -save_model available
 
 ### Preprocessing
 ```
+cd code/classification/sequence_model
 python3 preprocess.py -train_src ../../../data/multi-turn/task2/src-train.txt -train_tgt ../../../data/multi-turn/task2/tgt-train.txt -valid_src ../../../data/multi-turn/task2/src-test.txt -valid_tgt ../../../data/multi-turn/task2/tgt-test.txt -save_data ../../../data/multi-turn/task2/demo -dynamic_dict -share_vocab
 ```
 
@@ -92,12 +93,12 @@ python3 preprocess.py -train_src ../../../data/multi-turn/task2/src-train.txt -t
 
 ### Train
 ```
-python3 train.py -data ../../../data/multi-turn/task2/demo -save_model available_models/demo-model-transformer -gpu_ranks 0 -layers 1 -rnn_size 128 -word_vec_size 128 -transformer_ff 128 -heads 8  -encoder_type transformer -decoder_type transformer -position_encoding -dropout 0.1 -batch_size 16 -accum_count 2 -optim adam -adam_beta2 0.998 -decay_method noam -learning_rate 2 -max_grad_norm 0 -param_init 0  -param_init_glorot -label_smoothing 0.1 -valid_step 1000 -copy_attn
+ python3 train.py -data ../../../data/multi-turn/task2/demo -save_model available_models/demo-model-transformer -gpu_ranks 0 -layers 1 -rnn_size 128 -word_vec_size 128 -transformer_ff 128 -heads 8  -encoder_type transformer -decoder_type transformer -position_encoding -dropout 0.1 -batch_size 16 -accum_count 2 -optim adam -adam_beta2 0.998 -decay_method noam -learning_rate 2 -max_grad_norm 0 -param_init 0  -param_init_glorot -label_smoothing 0.1 -valid_step 1000 -copy_attn -train_steps 10000 -save_checkpoint_steps 5000
 ```
 
 ### Test
 ```
-python translate.py -model available_models/demo-single-model-transformer-without-copy_step_10000.pt -src ../../../data/multi-turn/task2/src-test.txt -output multi-copy.txt -replace_unk -verbose -gpu 0 -beam_size 1
+python3 translate.py -model available_models/demo-model-transformer_step_10000.pt -src ../../../data/multi-turn/task2/src-test.txt -output multi-copy.txt -replace_unk -verbose -gpu 0 -beam_size 1
 python merge.py
 perl tools/multi-bleu.perl ../../../data/multi-turn/task2/tgt-test1.txt < final_output
 ```
