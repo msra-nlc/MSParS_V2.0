@@ -121,7 +121,7 @@ print(len(testx))
 #word_embedding_object.close()
 char_list = []
 types = read_word(base_path + train_file)
-char_list.extend(['PAD', 'UNK', 'CLS', 'SEP', 'unused1', 'unused2', 'unused3', 'unused4', 'unused5'])
+char_list.extend(['PAD', 'UNK', 'CLS', 'unused1', 'unused2', 'unused3', 'unused4', 'unused5'])
 char_list.extend(types)
 PAD_ID = 0
 UNK_ID = 1

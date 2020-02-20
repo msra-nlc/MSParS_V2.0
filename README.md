@@ -105,7 +105,7 @@ perl tools/multi-bleu.perl ../../../data/multi-turn/task2/tgt-test1.txt < final_
 
 
 
-## Task 3.1: Clarification-based Question Answering -- Entity Prediction
+## Task 3.1: Clarification-based Question Answering -- Predicate Prediction
 
 
 
@@ -171,7 +171,7 @@ cd code/classification/sequence_model
 python3 train.py -data ../../../data/multi-turn/task3/demo -save_model available_models/demo-model-transformer -gpu_ranks 0 -layers 1 -rnn_size 128 -word_vec_size 128 -transformer_ff 128 -heads 8  -encoder_type transformer -decoder_type transformer -position_encoding -dropout 0.1 -batch_size 8 -accum_count 2 -optim adam -adam_beta2 0.998 -decay_method noam -learning_rate 2 -max_grad_norm 0 -param_init 0  -param_init_glorot -label_smoothing 0.1 -valid_step 200 > log_multi_transformer.txt
 ```
 
-## Task 3.2: Clarification-based Question Answering -- Predicate Prediction
+## Task 3.2: Clarification-based Question Answering -- Entity Prediction
 
 
 
@@ -185,20 +185,20 @@ python3 train.py -data ../../../data/multi-turn/task3/demo -save_model available
 #### Preprocessing
 ```
 cd code/classification/preprocess_file
-python3 pre_process_predicate_classifier.py --data_path "../../../data/multi-turn/task3/" --task "task3.2" #Generate data for baseline CNN
+python3 pre_process_entity_classifier.py --data_path "../../../data/multi-turn/task3/" --task "task3.2" #Generate data for baseline CNN
 ```
 
 #### Train & Test
 ```
 cd ../a02_TextCNN/
-python3 p7_TextCNN_train.py --cache_file_h5py ../../../data/multi-turn/task3/data.h51 --cache_file_pickle ../../../data/multi-turn/task3/vocab_label.pik #CNN
+python3 pre_process_hir_entity_classifier.py --cache_file_h5py ../../../data/multi-turn/task3/data.h51 --cache_file_pickle ../../../data/multi-turn/task3/vocab_label.pik #CNN
 ```
 
 ### Baseline 2: HAN
 #### Preprocessing
 ```
 cd code/classification/preprocess_file
-python3 pre_process_predicate_hir.py --data_pat "../../../data/multi-turn/task3/" --task "task3.2"  #Generate data for HAN and DMN
+python3 pre_process_hir_entity_classifier.py --data_pat "../../../data/multi-turn/task3/" --task "task3.2"  #Generate data for HAN and DMN
 ```
 
 #### Train & Test
@@ -211,7 +211,7 @@ python3 p1_HierarchicalAttention_train.py --cache_file_h5py ../../../data/multi-
 #### Preprocessing
 ```
 cd code/classification/preprocess_file
-python3 pre_process_predicate_hir.py "../../../data/multi-turn/task3/" --task "task3.2"  #Generate data for HAN and DMN
+python3 pre_process_hir_entity_classifier.py "../../../data/multi-turn/task3/" --task "task3.2"  #Generate data for HAN and DMN
 ```
 
 #### Train & Test

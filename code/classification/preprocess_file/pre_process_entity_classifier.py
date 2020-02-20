@@ -3,13 +3,29 @@ import pandas as pd
 from collections import Counter
 from tflearn.data_utils import pad_sequences
 import random
+import argparse
 import numpy as np
 import h5py
 import pickle
 import codecs
 import json
 print("import package successful...")
-
+parser = argparse.ArgumentParser()
+parser.add_argument("--data_path")
+parser.add_argument("--task", choices=["task1","task3.1","task3.2"]) # task1, task3
+args = parser.parse_args()
+if args.task == "task3.1":
+    train_file = "train_sml.txt"
+    dev_file = "dev_sml.txt"
+    test_file = "test_sml.txt"
+elif args.task == "task3.2":
+    train_file = "train_sml_classifie.txt"
+    dev_file = "dev_sml_classifie.txt"
+    test_file = "test_sml_classifie.txt"
+else:
+    train_file = "train_classifier.txt"
+    dev_file = "dev_classifier.txt"
+    test_file = "test_classifier.txt"
 def read_word(path):
     sr = codecs.open(path, "r", "utf-8")
     lines = sr.readlines()
@@ -75,11 +91,12 @@ def read_file(path):
     return inputs, targets
 
 
-# read source file as csv
-base_path='data/single-turn-with-clarification/'
-trainx, trainy=read_file(base_path + "train_sml_classifier.txt")
-validx, validy=read_file(base_path + "dev_sml_classifier.txt")
-testx, testy=read_file(base_path + "test_sml_classifier.txt")
+base_path=args.data_path + "/"
+
+
+trainx, trainy=read_file(base_path + train_file)
+validx, validy=read_file(base_path + dev_file)
+testx, testy=read_file(base_path + test_file)
 
 print(len(trainx))
 print(len(validx))
@@ -91,8 +108,8 @@ print(len(testx))
 #lines_wv = word_embedding_object.readlines()
 #word_embedding_object.close()
 char_list = []
-types = read_word(base_path + "train_classifier.txt")
-char_list.extend(['PAD', 'UNK', 'CLS', 'SEP', 'unused1', 'unused2', 'unused3', 'unused4', 'unused5'])
+types = read_word(base_path + train_file)
+char_list.extend(['PAD', 'UNK', 'CLS',  'unused1', 'unused2', 'unused3', 'unused4', 'unused5'])
 char_list.extend(types)
 PAD_ID = 0
 UNK_ID = 1
@@ -100,7 +117,7 @@ UNK_ID = 1
 
 # write to vocab.txt under data/ieee_zhihu_cup
 vocab_path = base_path + 'vocab.txt'
-vocab_char_object = open(vocab_path, 'w')
+vocab_char_object = codecs.open(vocab_path, 'w', 'utf-8')
 
 word2index = {}
 for i, char in enumerate(char_list):
