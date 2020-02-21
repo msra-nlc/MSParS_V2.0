@@ -240,4 +240,6 @@ python3 train.py -data ../../../data/multi-turn/task3/demo -save_model available
 ## News
 
 * Update and review single-turn data
+* Update and review multi-turn data
+* Update dataset split
 
