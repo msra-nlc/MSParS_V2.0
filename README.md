@@ -140,7 +140,7 @@ python3 pre_process_predicate_hir.py --data_path ../../../data/multi-turn/task3/
 #### Train & Test
 ```
 cd ../a05_HierarchicalAttentionNetwork/
-python3 p1_HierarchicalAttention_train.py --cache_file_h5py ../../../data/multi-turn/task3/hir_data.h5 --cache_file_pickle ../../../data/multi-turn/task3/hir_vocab_label.pik --num_classes 2 #HAN
+python3 p1_HierarchicalAttention_train.py --cache_file_h5py ../../../data/multi-turn/task3/hir_data.h5 --cache_file_pickle ../../../data/multi-turn/task3/hir_vocab_label.pik --num_classes 2 #HA
 ```
 
 ### Baseline 3: DMN
@@ -227,7 +227,7 @@ python3 a8_train.py --cache_file_h5py ../../../data/multi-turn/task3/hir_data.h5
 cd code/classification/preprocess_file
 python generate_input_file_entity.py --data_path "../../../data/multi-turn/task3/" --task "task3.2"
 cd code/classification/sequence_model
-python3 preprocess.py -train_src ../../../data/multi-turn/task3/src-train.txt -train_tgt ../../../data/multi-turn/task3/tgt-train.txt -valid_src ../../../data/multi-turn/task3/src-test.txt -valid_tgt ../../../data/multi-turn/task3/tgt-test.txt -save_data ../../../data/multi-turn/task3/demo -dynamic_dict
+python3 preprocess.py -train_src ../../../data/multi-turn/task3/src-train.txt -train_tgt ../../../data/multi-turn/task3/tgt-train.txt -valid_src ../../../data/multi-turn/task3/src-test.txt -valid_tgt ../../../data/multi-turn/task3/tgt-test.txt -save_data ../../../data/multi-turn/task3/demo-entity -dynamic_dict
 
 ```
 
