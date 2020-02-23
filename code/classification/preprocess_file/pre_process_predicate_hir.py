@@ -8,14 +8,18 @@ import h5py
 import pickle
 import json
 import codecs
-import argparse
 print("import package successful...")
+import argparse
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--data_path")
+parser.add_argument("--task", choices=["task1","task3.1","task3.2"]) # task1, task3
 args = parser.parse_args()
 if args.task == "task3.1":
     train_file = "train_sml.txt"
     dev_file = "dev_sml.txt"
     test_file = "test_sml.txt"
-elif arg.task == "task3.2":
+elif args.task == "task3.2":
     train_file = "train_sml_classifie.txt"
     dev_file = "dev_sml_classifie.txt"
     test_file = "test_sml_classifie.txt"
@@ -23,7 +27,7 @@ else:
     train_file = "train_classifier.txt"
     dev_file = "dev_classifier.txt"
     test_file = "test_classifier.txt"
-   
+
 def read_word(path):
     sr = codecs.open(path, "r", "utf-8")
     lines = sr.readlines()
@@ -80,9 +84,6 @@ def read_file(path):
     for line in lines:
         line = json.loads(line)
         line["candidate predicate"] = line["candidate predicate"].split(" <split> ")
-        for i in range(len(line["candidate predicate"])):
-            line["candidate predicate"][i] = " ".join(line["candidate predicate"][i][4:].split("."))
-            line["candidate predicate"][i] = line["candidate predicate"][i].replace("_"," ")
         items = " <SP> ".join([line["context"]] + line["candidate predicate"]) #, line["entity1"],line["entity2"]v items = " <SP> ".join([" ENT ".join([line["context"], line["entity1"],line["entity2"]])] + line["candidate predicate"]) 
         label = line["predicate"]
         input_ = items.strip().replace("<S>", "SEP")
@@ -100,7 +101,6 @@ trainx, trainy=read_file(base_path + train_file)
 validx, validy=read_file(base_path + dev_file)
 testx, testy=read_file(base_path + test_file)
 
-
 print(len(trainx))
 print(len(validx))
 print(len(testx))
@@ -112,7 +112,6 @@ print(len(testx))
 #word_embedding_object.close()
 char_list = []
 words = read_word(base_path + train_file)
-#words = read_word(base_path + "/train_sml.txt")
 char_list.extend(['PAD', 'UNK', 'CLS', 'SEP', 'unused1', 'unused2', 'unused3', 'unused4', 'unused5'])
 print(len(words))
 print(words[0])
@@ -122,7 +121,7 @@ UNK_ID = 1
 
 # write to vocab.txt under data/ieee_zhihu_cup
 vocab_path = base_path + 'hir_vocab.txt'
-vocab_char_object = open(vocab_path, 'w')
+vocab_char_object = codecs.open(vocab_path, 'w', 'utf-8')
 
 word2index = {}
 for i, char in enumerate(char_list):

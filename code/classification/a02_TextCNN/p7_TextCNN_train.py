@@ -24,12 +24,12 @@ base_path = ""
 tf.app.flags.DEFINE_string("cache_file_h5py","../preprocess_file/data/single-turn/data.h5","path of training/validation/test data.") #../data/sample_multiple_label.txt
 tf.app.flags.DEFINE_string("cache_file_pickle","../preprocess_file/data/single-turn/vocab_label.pik","path of vocabulary and label files") #../data/sample_multiple_label.txt
 
-tf.app.flags.DEFINE_float("learning_rate",0.0003,"learning rate")
+tf.app.flags.DEFINE_float("learning_rate",0.0003,"learning rate")#0.0003
 tf.app.flags.DEFINE_integer("batch_size", 64, "Batch size for training/evaluating.") #批处理的大小 32-->128
 tf.app.flags.DEFINE_integer("decay_steps", 1000, "how many steps before decay learning rate.") #6000批处理的大小 32-->128
 tf.app.flags.DEFINE_float("decay_rate", 1.0, "Rate of decay for learning rate.") #0.65一次衰减多少
 tf.app.flags.DEFINE_string("ckpt_dir","text_cnn_title_desc_checkpoint/","checkpoint location for the model")
-tf.app.flags.DEFINE_integer("sentence_len",100,"max sentence length")
+tf.app.flags.DEFINE_integer("sentence_len",500,"max sentence length")
 tf.app.flags.DEFINE_integer("embed_size",128,"embedding size")
 tf.app.flags.DEFINE_boolean("is_training_flag",True,"is training.true:tranining,false:testing/inference")
 tf.app.flags.DEFINE_integer("num_epochs",20,"number of epochs to run.")
@@ -59,8 +59,8 @@ def main(_):
     #train, test= load_data_multilabel(FLAGS.traning_data_path,vocabulary_word2index, vocabulary_label2index,FLAGS.sentence_len)
     #trainX, trainY = train;testX, testY = test
     #print some message for debug purpose
-    print("trainX[0:10]:", trainX[0:10])
-    print("trainY[0]:", trainY[0:10])
+    print("trainX[0:10]:", testX[0:10])
+    print("trainY[0]:", testY[0:10])
     train_y_short = get_target_label_short(trainY[0])
     print("train_y_short:", train_y_short)
 
@@ -131,14 +131,13 @@ def main(_):
                 predicate_y, val_loss, f1_score,f1_micro,f1_macro,accuracy = do_eval(sess, textCNN, testX, testY,num_classes)
                 print("Epoch %d test Loss:%.3f\tF1 Score:%.3f\tF1_micro:%.3f\tF1_macro:%.3f\tAccuracy:%.3f" % (epoch, eval_loss, f1_score,f1_micro,f1_macro,accuracy))
                 write_to_file(FLAGS.cache_file_h5py + str(epoch), predicate_y)
-        # 5.最后在测试集上做测试，并报告测试准确率 Test
+      
         predicate_y, test_loss,f1_score,f1_micro,f1_macro,accuracy = do_eval(sess, textCNN, testX, testY,num_classes)
         print("Test Loss:%.3f\tF1 Score:%.3f\tF1_micro:%.3f\tF1_macro:%.3f\tAccuracy:%.3f" % ( test_loss,f1_score,f1_micro,f1_macro,accuracy))
         write_to_file(FLAGS.cache_file_h5py + str(epoch), predicate_y)
     pass
 
 
-# 在验证集上做验证，报告损失、精确度
 def do_eval(sess,textCNN,evalX,evalY,num_classes):  
 
 
@@ -154,6 +153,7 @@ def do_eval(sess,textCNN,evalX,evalY,num_classes):
         curr_eval_loss, logits= sess.run([textCNN.loss_val,textCNN.logits],feed_dict)#curr_eval_acc--->textCNN.accuracy
         predict_y = get_label_using_logits(logits[0])
         target_y= get_target_label_short(evalY[start:end][0])
+        
         #f1_score,p,r=compute_f1_score(list(label_list_top5), evalY[start:end][0])
         label_dict_confuse_matrix, right_or_not=compute_confuse_matrix(target_y, predict_y, label_dict_confuse_matrix)
         eval_loss,eval_counter=eval_loss+curr_eval_loss,eval_counter+1

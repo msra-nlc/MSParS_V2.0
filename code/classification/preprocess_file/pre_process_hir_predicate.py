@@ -2,7 +2,6 @@
 import pandas as pd
 from collections import Counter
 from tflearn.data_utils import pad_sequences
-import argparse
 import random
 import numpy as np
 import h5py
@@ -10,6 +9,8 @@ import pickle
 import json
 import codecs
 print("import package successful...")
+import argparse
+
 parser = argparse.ArgumentParser()
 parser.add_argument("--data_path")
 parser.add_argument("--task", choices=["task1","task3.1","task3.2"]) # task1, task3
@@ -26,7 +27,7 @@ else:
     train_file = "train_classifier.txt"
     dev_file = "dev_classifier.txt"
     test_file = "test_classifier.txt"
-    
+
 
 def read_word(path):
     sr = codecs.open(path, "r", "utf-8")
@@ -62,7 +63,7 @@ def read_file(path):
     
         context = items["context"]
         entity = items["entity"]
-        target = items["target"]
+        target = items["predicate"]
         overlap = items["overlap"]
         
         input_ =  [" SEP ".join([ context, entity])] + overlap.split(" <OVERLAP> " ) 

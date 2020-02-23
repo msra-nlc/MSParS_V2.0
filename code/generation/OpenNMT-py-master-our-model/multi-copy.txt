@@ -1,0 +1,384 @@
+Are you talking about <e> or <e>, when you say the information about the person? <TSP> unknown <TSP> unknown
+When you say the name of the character of the book, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Which one do you mean, <e> or <e>, when you say the artist? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the name of the supervisor? <TSP> unknown <TSP> unknown
+When you say the person is popular for, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the artistic movement this person involved? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the written work? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the position of the athlete? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the album succeeding this album? <TSP> unknown <TSP> unknown
+When you say the name of the character of the book, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the person who authored with this person, do you mean <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the time zone? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the album succeeding this album? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the group the island groups ? <TSP> unknown <TSP> unknown
+Which one do you mean, <e> or <e>, when you say the artist? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the written work? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the sex of the person? <TSP> unknown <TSP> unknown
+When you say the album following the album, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the area of study, do you mean of the person <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the name of the engine? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the called? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the name of the supervisor? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the album succeeding this album? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the character of the book? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the album succeeding this album? <TSP> unknown <TSP> unknown
+When you say the person is popular for, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the field of study of this person? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the called? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the group the celestial body belongs? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the character of the book? <TSP> unknown <TSP> unknown
+When you say the name of the character of the book, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the volume published by this person? <TSP> unknown <TSP> unknown
+Which one do you mean, <e> or <e>, when you say the costume designer? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the category of the celestial body? <TSP> unknown <TSP> unknown
+When you say the publisher, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the character of the book? <TSP> unknown <TSP> unknown
+When you say the movie director, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the time zone? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the style of this creative work? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the field of study of this person? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the birthplace of the person? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the field of study of this person? <TSP> unknown <TSP> unknown
+When you say the zodiac sign, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the written work? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+When you say the name of the child, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the language? <TSP> unknown <TSP> unknown
+When you say the theme of the products, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+When you ask the classification of the celestial body, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the sequel of the game? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the name of the are <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the religion followed by the person? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the soundtrack in the album? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the sequel of the game? <TSP> unknown <TSP> unknown
+When you say the album following the album, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the book editions published by this person? <TSP> unknown <TSP> unknown
+When you say the section of the armed force for the unit, are you talking to <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the album succeeding this album? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the artist of the cover? <TSP> unknown <TSP> unknown
+Who are you referring to, when you say the parent, <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the next album after the album? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the target <EOS> <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the track in the album? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the name of the engine? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the label <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the occupation? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+When you say the sex of this person , are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+When you say the character of the book , are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the information about the person? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the field of study of this person? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+When you say the album following the album, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the album following the album, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the written work? <TSP> unknown <TSP> unknown
+When you say the gender of this person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the version of the game? <TSP> unknown <TSP> unknown
+When you say the movie director, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the written work? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the occupation? <TSP> unknown <TSP> unknown
+When you say book version published by this person, do you mean <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the Who are you referring to, when you say the parent, <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the zodiac sign, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the birthplace of the person? <TSP> unknown <TSP> unknown
+When talking about the character of the book , are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the name of the engine? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the zodiac sign of this person? <TSP> unknown <TSP> unknown
+When you say the character of the book , are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the birthplace of the person? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the style of this creative work? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the name of the engine? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the the <TSP> unknown <TSP> unknown
+When you say the movie director, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the next work? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the name of the engine? <TSP> unknown <TSP> unknown
+When you say the person is popular for, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the religion followed by the person? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the character of the book? <TSP> unknown <TSP> unknown
+When you say the gender of this person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the movie director, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the next work? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the time zone? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the III <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the person who is impacted? <TSP> unknown <TSP> unknown
+When you say the person is popular for, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+When you say the character of the book , are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the platform involved? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the information about the person? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the gender of this person? <TSP> unknown <TSP> unknown
+When you say the position of the athlete, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the opening release of the album? <TSP> unknown <TSP> unknown
+When you say the sex of this person , are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the artistic movement this person involved? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the called? <TSP> unknown <TSP> unknown
+When you say the sex of this person , are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the kind of this creative work, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the called? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+When you say the person is popular for, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the name of the engine? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the written work? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the written work? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the called? <TSP> unknown <TSP> unknown
+Who are you referring to, when you say the parent, <e> or <e>? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the zodiac sign of this person? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the album succeeding this album? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the style of this creative work? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the style of this creative work? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the name of the supervisor? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the platform involved? <TSP> unknown <TSP> unknown
+When you say a product that is related to this product, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the zodiac sign of this person? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+When you say the position of the athlete, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the person who published the book? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Are you referencing <e> or <e>, when you say the sex of the person? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the album succeeding this album? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the riverside cities? <TSP> unknown <TSP> unknown
+When you say the movie director, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the album succeeding this album? <TSP> unknown <TSP> unknown
+When you say the gender of this person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the name of the engine? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the style of this creative work? <TSP> unknown <TSP> unknown
+When you say the producer of the software, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the style of this creative work? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the album succeeding this album? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+When you say the zodiac sign, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+When you say the album following the album, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+When you say the publisher, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+When you say episode, do you mean <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the orinating place of this book , are you referring to the book <e> or the book <e>? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the called? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the written work? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the character of the book? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the first release of the album? <TSP> unknown <TSP> unknown
+When you say the name of the character of the book, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+When you say the publisher, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the information about the person? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the written work? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the character of the book? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the occupation? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the field of study of this person? <TSP> unknown <TSP> unknown
+When you say the publisher, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the final edited publication of the film, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+When you ask about the faith the person believes, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+When you say the gender of the character, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the album following the album, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the first release of the album? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the artist of the cover? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the next album after the album? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the name of the game series? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the written work? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the sequel of the game? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the style of this creative work? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the written work? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+When you say the religion the person preaches, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+When you say the person is popular for, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+When you say the name of the character of the book, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the name of the engine? <TSP> unknown <TSP> unknown
+When you say the publisher, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the information about the person? <TSP> unknown <TSP> unknown
+When you ask about the faith the person believes, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the track in the album? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the written work? <TSP> unknown <TSP> unknown
+When you say the similar are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the next album after the album? <TSP> unknown <TSP> unknown
+Who are you referring to, when you say the parent, <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the position of the athlete, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+When you say a product that is related to this product, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the name of the engine? <TSP> unknown <TSP> unknown
+When you say the publisher, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the album succeeding this album? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the child's name? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the character of the book? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the volume published by this person? <TSP> unknown <TSP> unknown
+When you say the position of the athlete, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the gender of this person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the album succeeding this album? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to the character <e> or <e>, when you say the name of the character? <TSP> unknown <TSP> unknown
+When you say the gender of this person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the name of the engine? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+When you say the name of the child, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the written work? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the brief summary of the book? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the movie is responsible for publishing the book? <TSP> unknown <TSP> unknown
+When you say the sex of this person , are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to the name of the character <e> or the name of the character? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the time zone? <TSP> unknown <TSP> unknown
+When you say the later episode? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the occupation? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the written work? <TSP> unknown <TSP> unknown
+When you say the kind of this creative work, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the birthplace of the person? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the sequel of the game? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the name of the engine? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the are <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the name of the character appears? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the video offer of the film? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+When you say the album following the album, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the person is popular for, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the publisher, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the name of the engine? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the name of the engine? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the name of the engine? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the birthplace of the person? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the information about the person? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the name of the engine? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the time zone? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the written work? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the name of the written work? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the artistic movement this person involved? <TSP> unknown <TSP> unknown
+When you say the theme of the products, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the character of the book? <TSP> unknown <TSP> unknown
+When you say the kind of this creative work, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean episode <e> or episode <e> ? <TSP> unknown <TSP> unknown
+When you say the album following the album, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the group the island groups ? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the information about the person? <TSP> unknown <TSP> unknown
+When you say the name of the character of the book, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Which one do you mean, <e> or <e>, when you say the costume designer? <TSP> unknown <TSP> unknown
+When you say the person is popular for, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the album succeeding this album? <TSP> unknown <TSP> unknown
+When you say the album following the album, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the called? <TSP> unknown <TSP> unknown
+Which one do you mean, <e> or <e>, when you say the costume designer? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+When you say the album following the album, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+When you ask about the faith the person believes, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the biological classification? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the information about the person? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the book editions published by this person? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+When you say the orinating place of this book , are you referring to the book <e> or the book <e>? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you ask the drive train? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the book editions published by this person? <TSP> unknown <TSP> unknown
+When you say the name of the character of the book, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the field of study of this person? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+When you say the person is popular for, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the zodiac sign of this person? <TSP> unknown <TSP> unknown
+When you say the person is popular for, are you referring to <e> or <e>? <TSP> unknown <TSP> unknown
+When you say the person who is impacted by the person, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the place where the business incorporated? <TSP> unknown <TSP> unknown
+Are you referring to <e> or <e>, when you say the target <EOS> <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the next work? <TSP> unknown <TSP> unknown
+When you say the sketch artist for the cover, are you talking about <e> or <e>? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the style of this creative work? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e>, when you say the called? <TSP> unknown <TSP> unknown
+Are you talking about <e> or <e> when you say the person's famous quote? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you say the name of the engine? <TSP> unknown <TSP> unknown
+Do you mean <e> or <e>, when you ask the style of this creative work? <TSP> unknown <TSP> unknown

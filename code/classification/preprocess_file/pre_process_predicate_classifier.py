@@ -2,18 +2,20 @@
 import pandas as pd
 from collections import Counter
 from tflearn.data_utils import pad_sequences
-import argparse
 import random
 import numpy as np
 import h5py
 import pickle
 import codecs
 import json
+import argparse
 print("import package successful...")
+
 parser = argparse.ArgumentParser()
 parser.add_argument("--data_path")
 parser.add_argument("--task", choices=["task1","task3.1","task3.2"]) # task1, task3
 args = parser.parse_args()
+
 if args.task == "task3.1":
     train_file = "train_sml.txt"
     dev_file = "dev_sml.txt"
@@ -26,7 +28,6 @@ else:
     train_file = "train_classifier.txt"
     dev_file = "dev_classifier.txt"
     test_file = "test_classifier.txt"
-    
 
 def read_word(path):
     sr = codecs.open(path, "r", "utf-8")
@@ -88,11 +89,8 @@ def read_file(path):
         
         label = line["predicate"]
         
-        line["candidate predicate"] = line["candidate predicate"].split(" <split> ")
-        for i in range(len(line["candidate predicate"])):
-            line["candidate predicate"][i] = " ".join(line["candidate predicate"][i][4:].split("."))
-            line["candidate predicate"][i] = line["candidate predicate"][i].replace("_"," ")
-        items = " <SP> ".join([line["context"]]+line["candidate predicate"]) #line["entity1"],line["entity2"], 
+        
+        items = " <SP> ".join([line["context"],line["candidate predicate"]]) #line["entity1"],line["entity2"], 
           
         input_ = items.strip().replace("<S>", "SEP")
         label = int(label)
@@ -101,13 +99,13 @@ def read_file(path):
         targets.append(label)
     return inputs, targets
 
-
 base_path=args.data_path + "/"
 
 
 trainx, trainy=read_file(base_path + train_file)
 validx, validy=read_file(base_path + dev_file)
 testx, testy=read_file(base_path + test_file)
+
 
 
 print(len(trainx))
@@ -121,7 +119,7 @@ print(len(testx))
 #word_embedding_object.close()
 char_list = []
 types = read_word(base_path + train_file)
-char_list.extend(['PAD', 'UNK', 'CLS', 'unused1', 'unused2', 'unused3', 'unused4', 'unused5'])
+char_list.extend(['PAD', 'UNK', 'CLS',  'unused1', 'unused2', 'unused3', 'unused4', 'unused5'])
 char_list.extend(types)
 PAD_ID = 0
 UNK_ID = 1

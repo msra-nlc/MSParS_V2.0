@@ -12,9 +12,9 @@ if args.task == "task3.1":
     dev_file = "dev_sml.txt"
     test_file = "test_sml.txt"
 elif args.task == "task3.2":
-    train_file = "train_sml_classifie.txt"
-    dev_file = "dev_sml_classifie.txt"
-    test_file = "test_sml_classifie.txt"
+    train_file = "train_sml_classifier.txt"
+    dev_file = "dev_sml_classifier.txt"
+    test_file = "test_sml_classifier.txt"
 else:
     train_file = "train_classifier.txt"
     dev_file = "dev_classifier.txt"

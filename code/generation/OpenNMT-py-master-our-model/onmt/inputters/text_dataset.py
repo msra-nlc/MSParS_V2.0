@@ -188,8 +188,12 @@ class TextDataset(DatasetBase):
             for i, line in enumerate(text_iter):
                 line = line.strip().split(" <TSP> ")
                 template = line[0].split()
-                entity1 = line[1].split()
-                entity2 = line[2].split()
+                if len(line) < 3:
+                    entity1 = ["null"]
+                    entity2 = ["null"]
+                else:
+                     entity1 = line[1].split()
+                     entity2 = line[2].split()
 
                 if truncate:
                     template = template[:truncate]

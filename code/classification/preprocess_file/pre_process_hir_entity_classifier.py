@@ -9,6 +9,8 @@ import pickle
 import json
 import codecs
 print("import package successful...")
+import argparse
+
 parser = argparse.ArgumentParser()
 parser.add_argument("--data_path")
 parser.add_argument("--task", choices=["task1","task3.1","task3.2"]) # task1, task3
@@ -18,14 +20,13 @@ if args.task == "task3.1":
     dev_file = "dev_sml.txt"
     test_file = "test_sml.txt"
 elif args.task == "task3.2":
-    train_file = "train_sml_classifie.txt"
-    dev_file = "dev_sml_classifie.txt"
-    test_file = "test_sml_classifie.txt"
+    train_file = "train_sml_classifier.txt"
+    dev_file = "dev_sml_classifier.txt"
+    test_file = "test_sml_classifier.txt"
 else:
     train_file = "train_classifier.txt"
     dev_file = "dev_classifier.txt"
     test_file = "test_classifier.txt"
-    
 
 def read_word(path):
     sr = codecs.open(path, "r", "utf-8")
@@ -101,6 +102,7 @@ trainx, trainy=read_file(base_path + train_file)
 validx, validy=read_file(base_path + dev_file)
 testx, testy=read_file(base_path + test_file)
 
+
 print(len(trainx))
 print(len(validx))
 print(len(testx))
@@ -112,7 +114,7 @@ print(len(testx))
 #word_embedding_object.close()
 char_list = []
 words = read_word(base_path + train_file)
-char_list.extend(['PAD', 'UNK', 'CLS', 'unused1', 'unused2', 'unused3', 'unused4', 'unused5'])
+char_list.extend(['PAD', 'UNK', 'CLS', 'SEP', 'unused1', 'unused2', 'unused3', 'unused4', 'unused5'])
 print(len(words))
 print(words[0])
 char_list.extend(words)

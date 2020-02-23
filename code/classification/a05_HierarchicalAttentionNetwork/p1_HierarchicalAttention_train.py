@@ -18,24 +18,24 @@ tf.app.flags.DEFINE_string("cache_file_h5py","../preprocess_file/data/multi-turn
 tf.app.flags.DEFINE_string("cache_file_pickle","../preprocess_file/data/multi-turn/hir_vocab_label.pik","path of vocabulary and label files") #../data/sample_multiple_label.txt
 
 tf.app.flags.DEFINE_integer("num_classes",2,"number of label")
-tf.app.flags.DEFINE_float("learning_rate",0.01,"learning rate") #TODO 0.01
-tf.app.flags.DEFINE_integer("batch_size", 64, "Batch size for training/evaluating.") #批处理的大小 32-->128 #TODO
-tf.app.flags.DEFINE_integer("decay_steps", 6000, "how many steps before decay learning rate.") #6000批处理的大小 32-->128
-tf.app.flags.DEFINE_float("decay_rate", 1.0, "Rate of decay for learning rate.") #0.87一次衰减多少
+tf.app.flags.DEFINE_float("learning_rate",0.01,"learning rate") 
+tf.app.flags.DEFINE_integer("batch_size", 64, "Batch size for training/evaluating.")
+tf.app.flags.DEFINE_integer("decay_steps", 6000, "how many steps before decay learning rate.")
+tf.app.flags.DEFINE_float("decay_rate", 1.0, "Rate of decay for learning rate.")
 tf.app.flags.DEFINE_string("ckpt_dir","checkpoint_hier_atten_title/text_hier_atten_title_desc_checkpoint_MHA/","checkpoint location for the model")
 tf.app.flags.DEFINE_integer("sequence_length",100,"max sentence length")
 tf.app.flags.DEFINE_integer("embed_size",100,"embedding size")
 tf.app.flags.DEFINE_boolean("is_training",True,"is traning.true:tranining,false:testing/inference")
 tf.app.flags.DEFINE_integer("num_epochs",20,"number of epochs to run.")
-tf.app.flags.DEFINE_integer("validate_every", 1, "Validate every validate_every epochs.") #每10轮做一次验证
-tf.app.flags.DEFINE_integer("validate_step", 1000, "how many step to validate.") #1500做一次检验 TODO
+tf.app.flags.DEFINE_integer("validate_every", 1, "Validate every validate_every epochs.")
+tf.app.flags.DEFINE_integer("validate_step", 1000, "how many step to validate.")
 tf.app.flags.DEFINE_boolean("use_embedding",False,"whether to use embedding or not.")
 #tf.app.flags.DEFINE_string("cache_path","text_cnn_checkpoint/data_cache.pik","checkpoint location for the model")
 #train-zhihu4-only-title-all.txt
 #tf.app.flags.DEFINE_string("traning_data_path","train-zhihu4-only-title-all.txt","path of traning data.") #O.K.train-zhihu4-only-title-all.txt-->training-data/test-zhihu4-only-title.txt--->'training-data/train-zhihu5-only-title-multilabel.txt'
 #tf.app.flags.DEFINE_string("word2vec_model_path","zhihu-word2vec-title-desc.bin-100","word2vec's vocabulary and vectors") #zhihu-word2vec.bin-100-->zhihu-word2vec-multilabel-minicount15.bin-100
 tf.app.flags.DEFINE_boolean("multi_label_flag",False,"use multi label or single label.")
-tf.app.flags.DEFINE_integer("num_sentences", 3, "number of sentences in the document") #每10轮做一次验证
+tf.app.flags.DEFINE_integer("num_sentences", 3, "number of sentences in the document") 
 tf.app.flags.DEFINE_integer("hidden_size",256,"hidden size")
 
 #1.load data(X:list of lint,y:int). 2.create session. 3.feed data. 4.training (5.validation) ,(6.prediction)
@@ -48,7 +48,7 @@ def write_to_file(path, list_):
   
 def main(_):
     #1.load data(X:list of lint,y:int).
-    #if os.path.exists(FLAGS.cache_path):  # 如果文件系统中存在，那么加载故事（词汇表索引化的）
+    #if os.path.exists(FLAGS.cache_path):  
     #    with open(FLAGS.cache_path, 'r') as data_f:
     #        trainX, trainY, testX, testY, vocabulary_index2word=pickle.load(data_f)
     #        vocab_size=len(vocabulary_index2word)
@@ -75,6 +75,8 @@ def main(_):
         #Instantiate Model
         #num_classes, learning_rate, batch_size, decay_steps, decay_rate,sequence_length,num_sentences,vocab_size,embed_size,
         #hidden_size,is_training
+        print(num_classes, FLAGS.learning_rate, FLAGS.batch_size, FLAGS.decay_steps, FLAGS.decay_rate,FLAGS.sequence_length,
+                                       FLAGS.num_sentences,vocab_size,FLAGS.embed_size,FLAGS.hidden_size,FLAGS.is_training,FLAGS.multi_label_flag)
         model=HierarchicalAttention(num_classes, FLAGS.learning_rate, FLAGS.batch_size, FLAGS.decay_steps, FLAGS.decay_rate,FLAGS.sequence_length,
                                        FLAGS.num_sentences,vocab_size,FLAGS.embed_size,FLAGS.hidden_size,FLAGS.is_training,multi_label_flag=FLAGS.multi_label_flag)
         #Initialize Save
@@ -107,6 +109,7 @@ def main(_):
                     feed_dict[model.input_y] = trainY[start:end]
                 else:
                     feed_dict[model.input_y_multilabel]=trainY[start:end]
+                #print(feed_dict)
                 curr_loss,curr_acc,_=sess.run([model.loss_val,model.accuracy,model.train_op],feed_dict) #curr_acc--->TextCNN.accuracy
                 loss,counter,acc=loss+curr_loss,counter+1,acc+curr_acc
                 if counter %50==0:
@@ -151,7 +154,7 @@ def main(_):
                 save_path=FLAGS.ckpt_dir+"model.ckpt"
                 #saver.save(sess,save_path,global_step=epoch)
 
-        # 5.最后在测试集上做测试，并报告测试准确率 Test
+       
         predicate_y, test_loss, test_acc = do_eval(sess, model, testX, testXlen, testY, batch_size)
         write_to_file(FLAGS.cache_file_h5py + str(epoch), predicate_y)
         print("Test Loss:%.3f\tTest Accuracy: %.3f" % (test_loss, test_acc))
@@ -189,7 +192,6 @@ def assign_pretrained_word_embedding(sess,vocabulary_index2word,vocab_size,model
     print("word. exists embedding:", count_exist, " ;word not exist embedding:", count_not_exist)
     print("using pre-trained word emebedding.ended...")
 
-# 在验证集上做验证，报告损失、精确度
 def do_eval(sess,textCNN,evalX,evalXlen,evalY,batch_size):
     number_examples=len(evalX)
     predicate_list = []
@@ -217,7 +219,7 @@ def get_label_using_logits(logits,top_number=5):
 
     return y_predict_labels
 
-#统计预测的准确率
+
 def calculate_accuracy(labels_predicted, labels,eval_counter):
     label_nozero=[]
     #print("labels:",labels)

@@ -223,7 +223,7 @@ def save_data(cache_file_h5py,cache_file_pickle,word2index,label2index,train_X,t
 label_size=len(label2index)
 cache_path_h5py=base_path+'data.h51'
 cache_path_pickle=base_path+'vocab_label.pik'
-max_sentence_length=500
+max_sentence_length=100
 
 # step 1: get (X,y)
 X,train_Y=get_X_Y(trainx,trainy,label_size)

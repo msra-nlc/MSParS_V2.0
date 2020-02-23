@@ -15,7 +15,7 @@ FLAGS=tf.app.flags.FLAGS
 tf.app.flags.DEFINE_string("cache_file_h5py","","path of training/validation/test data.") #../data/sample_multiple_label.txt
 tf.app.flags.DEFINE_string("cache_file_pickle","","path of vocabulary and label files") #../data/sample_multiple_label.txt
 tf.app.flags.DEFINE_integer("num_classes",2,"number of label") #3 ADDITIONAL TOKEN: _GO,_END,_PAD
-tf.app.flags.DEFINE_float("learning_rate",0.005,"learning rate")
+tf.app.flags.DEFINE_float("learning_rate",0.01,"learning rate")
 tf.app.flags.DEFINE_integer("batch_size", 64, "Batch size for training/evaluating.") #批处理的大小 32-->128
 tf.app.flags.DEFINE_integer("decay_steps", 12000, "how many steps before decay learning rate.") #6000批处理的大小 32-->128
 tf.app.flags.DEFINE_float("decay_rate", 1.0, "Rate of decay for learning rate.") #0.87一次衰减多�?

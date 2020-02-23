@@ -28,12 +28,12 @@ class HierarchicalAttention:
 
         # add placeholder (X,label)
         # self.input_x = tf.placeholder(tf.int32, [None, self.num_sentences,self.sequence_length], name="input_x")  # X
-        self.input_x = tf.placeholder(tf.int32, [None, num_sentences, self.sequence_length], name="input_x")
-        self.input_x_len = tf.placeholder(tf.int32, [None, num_sentences], name="input_x_len")
+        self.input_x = tf.placeholder(tf.int32, [64, num_sentences, self.sequence_length], name="input_x")
+        self.input_x_len = tf.placeholder(tf.int32, [64, num_sentences], name="input_x_len")
         self.rand_unif_init = tf.random_uniform_initializer(-0.02, 0.02, seed=123)
 
         self.sequence_length = int(self.sequence_length ) # TODO
-        self.input_y = tf.placeholder(tf.int32, [None, num_classes], name="input_y")  # y:[None,num_classes]
+        self.input_y = tf.placeholder(tf.int32, [64, num_classes], name="input_y")  # y:[None,num_classes]
         self.input_y_multilabel = tf.placeholder(tf.float32, [None, self.num_classes],name="input_y_multilabel")  # y:[None,num_classes]. this is for multi-label classification only.
         self.dropout_keep_prob = tf.placeholder(tf.float32, name="dropout_keep_prob")
 
@@ -155,6 +155,7 @@ class HierarchicalAttention:
         self.embedded_words = tf.nn.embedding_lookup(self.Embedding,self.input_x)  # [None,num_sentences,sentence_length,embed_size]
         embedded_words_reshaped = tf.reshape(self.embedded_words, shape=[-1, self.sequence_length,self.embed_size])  # [batch_size*num_sentences,sentence_length,embed_size]
         # 1.2 forward gru
+        print(embedded_words_reshaped)
         sentence_lists = self._add_encoder(embedded_words_reshaped, tf.reshape(self.input_x_len, shape=[-1]))  # a list,length is sentence_length, each element is [batch_size*num_sentences,hidden_size]
         # 1.3 backward gru
         #hidden_state_backward_list = self.gru_backward_word_level(embedded_words_reshaped)  # a list,length is sentence_length, each element is [batch_size*num_sentences,hidden_size]
